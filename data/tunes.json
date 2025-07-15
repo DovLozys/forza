@@ -1,0 +1,170 @@
+{
+  "lastUpdated": "2025-07-15T20:51:40.942Z",
+  "races": [
+    {
+      "event": "The Trial (Street) - Hi-Bean Racing",
+      "tunes": [
+        {
+          "event": "The Trial (Street) - Hi-Bean Racing",
+          "class": "A 800 (Toyota & Lexus)",
+          "car": "Toyota GR Supra",
+          "creator": "Move33R",
+          "raceType": "Road",
+          "tuneName": "AR12 Purist",
+          "shareCode": "839 581 822",
+          "notes": "AWD, 6.2L Chevrolet LS3 V8, Full Aero (SFLA Wing) + Toyota Heritage Ed. Sideskirt, Rally Tires. Strong AWD, 00:49.600 Lookout Circuit. Tune settings available here."
+        }
+      ]
+    },
+    {
+      "event": "EventLab (Road) - Lighthouse National Circuit",
+      "tunes": [
+        {
+          "event": "EventLab (Road) - Lighthouse National Circuit",
+          "class": "A 800 (Track Toys)",
+          "car": "Caterham Superlight R500",
+          "creator": "LogikJ",
+          "raceType": "Road",
+          "tuneName": "Road +Aero Upd",
+          "shareCode": "376 444 855",
+          "notes": "AWD, 3.2L BMW i6, Full Aero, Stock Rims, Rally Tires. Strong AWD Grip, 00:57.510 Estadio Circuit."
+        }
+      ]
+    },
+    {
+      "event": "EventLab (Road) - Teotihuacan Ruins Restored",
+      "tunes": [
+        {
+          "event": "EventLab (Road) - Teotihuacan Ruins Restored",
+          "class": "B 700 (Classic & Retro Rally)",
+          "car": "Renault 5 Turbo",
+          "creator": "Saeenu",
+          "raceType": "Road",
+          "tuneName": "Seasonal Road PR",
+          "shareCode": "114 258 755",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims. Strong AWD, 01:04.383 Estadio Circuit."
+        }
+      ]
+    },
+    {
+      "event": "Danger Sign (Dirt) - Eagle's Perch (200m/657ft)",
+      "tunes": [
+        {
+          "event": "Danger Sign (Dirt) - Eagle's Perch (200m/657ft)",
+          "class": "C 600 (IH Scout 800A)",
+          "car": "International Scout 800A (M/C)",
+          "creator": "LogikJ",
+          "raceType": "Cross Country",
+          "tuneName": "CC Power Rivals",
+          "shareCode": "806 731 520",
+          "notes": "AWD, 6.2L Chevrolet LS3 V8, No Aero + Bullbars & Roof Lights, Stock Rims, Rear Tire Profile Size Upgrade, Offroad Tires. Manual & Clutch Recommended. AWD CC (Power) Meta, 02:02.779 Tropico Cross Country (Top #2). 272.9m Eagle's Perch Danger Sign & 140.57mph Pyramid Of The Sun Speed Trap."
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Approach from west, 2.7km/1.7mi runup)",
+      "tunes": [
+        {
+          "event": "(Tip: Approach from west, 2.7km/1.7mi runup)",
+          "class": "C 600 (IH Scout 800A)",
+          "car": "International Scout 800A (M/C)",
+          "creator": "Saeenu",
+          "raceType": "Dirt",
+          "tuneName": "Mangrove 1:17.9",
+          "shareCode": "151 284 124",
+          "notes": "AWD, 6.2L Chevrolet LS3 V8, Rear Aero + Bullbars & Roof Lights, Stock Rims, Rear Tire Profile Size Upgrade, Offroad Tires. Manual & Clutch Recommended. AWD Dirt Meta, 01:17.962 Mangrove Scramble (Top #6). Less power/more handling than above tune ↑. 85.42mph El Gancho Speed Zone."
+        }
+      ]
+    },
+    {
+      "event": "Road - Just My Type",
+      "tunes": [
+        {
+          "event": "Road - Just My Type",
+          "class": "B 700 (Modern Sports Cars)",
+          "car": "Honda S2000 CR '09",
+          "creator": "Saeenu",
+          "raceType": "Road",
+          "tuneName": "1:03.2 Estadio B",
+          "shareCode": "902 767 095",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims. Very Strong/Near Meta AWD, 01:03.227 Estadio Circuit."
+        }
+      ]
+    },
+    {
+      "event": "Road - Going International",
+      "tunes": [
+        {
+          "event": "Road - Going International",
+          "class": "D 500 (Cult Cars)",
+          "car": "Peel Trident",
+          "creator": "Gertschapij",
+          "raceType": "Road",
+          "tuneName": "Trident Tech Max",
+          "shareCode": "143 978 891",
+          "notes": "AWD, Stock Engine, Front Aero, Offroad Race Tires. AWD Meta+, 02:31.051 Tunnel Run (Top #1 WR)."
+        }
+      ]
+    },
+    {
+      "event": "Weekly Forzathon - The Best or Nothing",
+      "tunes": [
+        {
+          "event": "Weekly Forzathon - The Best or Nothing",
+          "class": "Mercedes-Benz 190E",
+          "car": "Mercedes-Benz 190E 2.5-16 Evolution II (A 800)",
+          "creator": "Saeenu",
+          "raceType": "Road",
+          "tuneName": "Road i6 No Wing",
+          "shareCode": "144 289 323",
+          "notes": "AWD, 3.2L BMW i6, No Aero (Removed Rear Wing), Stock Rims, Rally Tires. Good AWD, 00:57.874 Estadio Circuit."
+        }
+      ]
+    },
+    {
+      "event": "Earn 2+ Stars from Río Fuerte Speed Zone",
+      "tunes": [
+        {
+          "event": "Earn 2+ Stars from Río Fuerte Speed Zone",
+          "class": "Deberti",
+          "car": "DeBerti Toyota Tacoma TRD 'The Performance Truck' (S1 900)",
+          "creator": "AMS Carver",
+          "raceType": "Road",
+          "tuneName": "S1 Circuit",
+          "shareCode": "100 038 133",
+          "notes": "AWD, Stock Engine, Stock Aero, Race Slicks, Dry Only"
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Approach from west, 2.8km/1.7mi runup)",
+      "tunes": [
+        {
+          "event": "(Tip: Approach from west, 2.8km/1.7mi runup)",
+          "class": "Deberti",
+          "car": "DeBerti Ford Mustang GT (S1 900, RWD, M/C)",
+          "creator": "VNX Letz",
+          "raceType": "Road",
+          "tuneName": "S1 Powerbuild",
+          "shareCode": "429 665 759",
+          "notes": "RWD, 8.9L Hot Wheels Monster Truck V8 DSC, Full Aero. Manual & Clutch Recommended."
+        }
+      ]
+    },
+    {
+      "event": "Complete a Drag Race",
+      "tunes": [
+        {
+          "event": "Complete a Drag Race",
+          "class": "Ford Mustang Mach",
+          "car": "Ford Mustang Mach 1 '71 (S1 858)",
+          "creator": "OxGRIDRUNR",
+          "raceType": "Drag (Road)",
+          "tuneName": "AWD Drag",
+          "shareCode": "533 849 076",
+          "notes": "AWD, 8.9L Hot Wheels Monster Truck DSC V8, No Aero + Hood Scoop, Drag Tires, Dry Only. Can beat Unbeatable drivatars on Festival Strip!"
+        }
+      ]
+    }
+  ]
+}
