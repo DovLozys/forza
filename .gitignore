@@ -2,9 +2,6 @@
 node_modules/
 npm-debug.log*
 
-# Generated data (created by GitHub Actions)
-data/tunes.json
-
 # OS generated files
 .DS_Store
 .DS_Store?
