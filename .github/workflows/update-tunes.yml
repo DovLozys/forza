@@ -1,0 +1,54 @@
+name: Update Weekly Tunes
+
+on:
+  schedule:
+    # Run every Tuesday at 6:00 AM UTC (when Forza seasonal events typically update)
+    - cron: '0 6 * * 2'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-tunes:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Install dependencies
+      run: npm install
+      
+    - name: Fetch latest tune data
+      run: npm run fetch-data
+      
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/tunes.json
+        git commit -m "🏎️ Update weekly tune data - $(date +'%Y-%m-%d')"
+        git push
+        
+    - name: Deploy to GitHub Pages
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
+        exclude_assets: '.github,scripts,node_modules,package*.json'

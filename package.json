@@ -1,0 +1,16 @@
+{
+  "name": "forza-tune-tracker",
+  "version": "1.0.0",
+  "description": "Weekly Forza Horizon 5 seasonal tune tracker",
+  "main": "scripts/fetch-data.js",
+  "scripts": {
+    "fetch-data": "node scripts/fetch-data.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["forza", "horizon", "tunes", "racing"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}
