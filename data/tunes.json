@@ -1,273 +1,243 @@
 {
-  "lastUpdated": "2025-08-05T06:18:16.872Z",
+  "lastUpdated": "2025-08-12T06:15:52.759Z",
   "races": [
     {
-      "event": "The Trial (Road) - Stock Showdown: HSV GEN-F GTS",
+      "event": "The Trial (Dirt) - Stock Showdown: Land Rover Velar",
       "tunes": [
         {
-          "event": "The Trial (Road) - Stock Showdown: HSV GEN-F GTS",
-          "class": "A 721 (HSV GEN-F GTS)",
-          "car": "HSV GEN-F GTS (RWD, M/C)",
+          "event": "The Trial (Dirt) - Stock Showdown: Land Rover Velar",
+          "class": "B 638 (Land Rover Velar)",
+          "car": "Land Rover Range Rover Velar First Edition",
           "creator": "Saeenu",
           "raceType": "Road",
           "tuneName": "Seasonal Trial",
-          "shareCode": "169 133 683",
-          "notes": "RWD, Stock Engine, No Aero, Stock Rims, Purist. Manual & Clutch Recommended."
+          "shareCode": "156 366 437",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Purist"
         }
       ]
     },
     {
-      "event": "Horizon Arcade",
+      "event": "EventLab (Road) - Skyline Circuit",
       "tunes": [
         {
-          "event": "Horizon Arcade",
-          "class": "Anything Goes",
-          "car": "Lamborghini Sesto Elemento Forza Edition (X 999)",
-          "creator": "trviis",
+          "event": "EventLab (Road) - Skyline Circuit",
+          "class": "S1 900 (Track Toys)",
+          "car": "Lamborghini Huracán STO",
+          "creator": "K1Z Bala",
           "raceType": "Road",
-          "tuneName": "1185",
-          "shareCode": "676 233 508",
-          "notes": "AWD, 4.7L Ferrari Racing V12 w/ Anti-Lag Turbos, Full Aero, Race Slicks, Dry Only. X Road Meta."
+          "tuneName": "Catstar",
+          "shareCode": "128 438 797",
+          "notes": "AWD, Stock Engine, Full Aero (Stock Wing), Rally Tires. Strong AWD Grip, 00:55.471 Tierra Prospera Circuit."
         }
       ]
     },
     {
-      "event": "Danger Sign (Dirt) - Metal Bird (70m/230ft)",
+      "event": "Playground Games (Ek' Balam) - Survival",
       "tunes": [
         {
-          "event": "Danger Sign (Dirt) - Metal Bird (70m/230ft)",
-          "class": "A 800 (Toyota)",
-          "car": "Toyota Tundra TRD Pro (M/C)",
-          "creator": "lphanhan",
-          "raceType": "Dirt",
-          "tuneName": "GTA来的?",
-          "shareCode": "179 992 279",
-          "notes": "AWD, 7.2L RJ Anderson Racing V8, No Aero, Stock Rims, Rear Tire Profile Size Upgrade, Offroad Race Tires. Manual & Clutch Recommended. Strong CC. 160.80m Metal Bird Danger Sign."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from west, 629m/687yd runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from west, 629m/687yd runup)",
-          "class": "A 800 (Toyota)",
-          "car": "Toyota Tacoma TRD Pro (M/C)",
+          "event": "Playground Games (Ek' Balam) - Survival",
+          "class": "B 700 (Offroad)",
+          "car": "Ford #2069 Ford Performance Bronco R",
           "creator": "TheDannny",
-          "raceType": "Dirt",
-          "tuneName": "A CC M/C V1.1",
-          "shareCode": "170 736 225",
-          "notes": "AWD, 7.2L RJ Anderson Racing V8, No Aero, Stock Rims, Offroad Race Tires. Manual & Clutch Recommended. Strong CC, 01:08.6xx Costera CC."
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/KDMCBRmPmtA )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/KDMCBRmPmtA )",
-          "class": "A 800 (Toyota)",
-          "car": "Toyota #1 T100 Baja Truck",
-          "creator": "LogikJ",
-          "raceType": "Dirt",
+          "raceType": "Playground Games",
           "tuneName": "Seasonal CC",
-          "shareCode": "170 631 239",
+          "shareCode": "129 119 656",
           "notes": "AWD, 6.2L Chevrolet LS3 V8, No Aero, Offroad Race Tires"
         }
       ]
     },
     {
-      "event": "Danger Sign (Dirt) - Ranas Saltarinas (165m/542ft)",
+      "event": "Drift Zone (Road) - Reservoir (120,000 pts)",
       "tunes": [
         {
-          "event": "Danger Sign (Dirt) - Ranas Saltarinas (165m/542ft)",
-          "class": "B 700 (Mazda)",
-          "car": "Mazda 323 GT-R (M/C)",
-          "creator": "LogikJ",
-          "raceType": "Dirt",
-          "tuneName": "B Dirt Strong",
-          "shareCode": "850 559 473",
-          "notes": "AWD, 2.0L Honda VTEC i4, No Aero, Stock Rims, Offroad Race Tires, Manual & Clutch Recommended. Strong Dirt."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from south-west, 2.1km/1.3mi runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from south-west, 2.1km/1.3mi runup)",
-          "class": "B 700 (Mazda)",
-          "car": "Mazda MX-5 Miata '94",
-          "creator": "LogikJ",
-          "raceType": "Dirt",
-          "tuneName": "B Dirt AWD",
-          "shareCode": "139 473 352",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires. 232.43m Ranas Saltarinas Danger Sign."
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/KDMCBRmPmtA?t=49 )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/KDMCBRmPmtA?t=49 )",
-          "class": "B 700 (Mazda)",
-          "car": "Mazda MX-5 Miata '94 (RWD, M/C)",
-          "creator": "XSW 4002",
-          "raceType": "Dirt",
-          "tuneName": "Dirt Purist",
-          "shareCode": "153 641 270",
-          "notes": "RWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires, Purist. Manual & Clutch Recommended."
-        }
-      ]
-    },
-    {
-      "event": "Danger Sign (Dirt) - Salto de Río (122m/401ft)",
-      "tunes": [
-        {
-          "event": "Danger Sign (Dirt) - Salto de Río (122m/401ft)",
-          "class": "C 600 (Holden)",
-          "car": "Holden HQ Monaro GTS 350",
+          "event": "Drift Zone (Road) - Reservoir (120,000 pts)",
+          "class": "S1 900 (TVR)",
+          "car": "TVR Sagaris",
           "creator": "OxGRIDRUNR",
-          "raceType": "Dirt",
-          "tuneName": "Saenu Road AWD",
-          "shareCode": "131 555 216",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims. Very Strong AWD, 01:09.462 Estadio Circuit. Tune originally created by Saeenu."
+          "raceType": "Drift (Road)",
+          "tuneName": "AWD Drift",
+          "shareCode": "938 710 700",
+          "notes": "AWD, 3.0L Toyota Racing 2JZ i6T w/ Anti-Lag Turbo, No Aero, Drag Tires, Dry Only. 435.2k pts Reservoir Drift Zone."
         }
       ]
     },
     {
-      "event": "(Tip: Approach from south-west, 626m/685yd runup)",
+      "event": "Trailblazer (Cross Country) - Desert Descent (12s)",
       "tunes": [
         {
-          "event": "(Tip: Approach from south-west, 626m/685yd runup)",
-          "class": "C 600 (Holden)",
-          "car": "Holden Sandman HQ Panel Van",
-          "creator": "Mustuff124",
-          "raceType": "Dirt",
-          "tuneName": "C Seasonal",
-          "shareCode": "508 614 126",
-          "notes": "AWD, 6.2L Chevrolet LS3 V8, Roo Bar Bodykit, Rear Aero, Stock Rims"
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/KDMCBRmPmtA?t=126 )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/KDMCBRmPmtA?t=126 )",
-          "class": "C 600 (Holden)",
-          "car": "Holden HQ Monaro GTS 350 (RWD, M/C)",
-          "creator": "OxGRIDRUNR",
-          "raceType": "Dirt",
-          "tuneName": "Saenu RoadPurist",
-          "shareCode": "127 561 591",
-          "notes": "RWD, Stock Engine, No Aero, Stock Rims, Purist. Manual & Clutch Recommended. Very Strong RWD, 01:08.689 Estadio Circuit. 141.32m Salto de Río Danger Sign. Tune originally created by Saeenu."
-        }
-      ]
-    },
-    {
-      "event": "Road - Aussie Rules!",
-      "tunes": [
-        {
-          "event": "Road - Aussie Rules!",
-          "class": "A 800 (Country: Australia)",
-          "car": "Holden Torana A9X",
-          "creator": "LogikJ",
-          "raceType": "Dirt",
-          "tuneName": "Dirt V8 Aero Upd",
-          "shareCode": "632 856 601",
-          "notes": "AWD, 6.2L Chevrolet LS3 V8, Full Aero, Stock Rims, Offroad Race Tires. Strong Dirt."
-        }
-      ]
-    },
-    {
-      "event": "Street - Nissan to the Max",
-      "tunes": [
-        {
-          "event": "Street - Nissan to the Max",
-          "class": "B 700 (Nissan)",
-          "car": "Nissan Pulsar GTI-R (M/C)",
-          "creator": "TheDannny",
-          "raceType": "Road",
-          "tuneName": "Road No Aero i6",
-          "shareCode": "482 768 712",
-          "notes": "AWD, 3.2L BMW i6, No Aero. Very Strong AWD."
-        }
-      ]
-    },
-    {
-      "event": "Cross Country - Clever Girl!",
-      "tunes": [
-        {
-          "event": "Cross Country - Clever Girl!",
-          "class": "C 600 (Ford Raptor)",
-          "car": "Ford F-150 SVT Raptor '11 (M/C)",
+          "event": "Trailblazer (Cross Country) - Desert Descent (12s)",
+          "class": "A 800 (Land Rover)",
+          "car": "Land Rover Range Rover Velar First Edition",
           "creator": "LogikJ",
           "raceType": "Cross Country",
-          "tuneName": "Seasonal Offroad",
-          "shareCode": "139 711 150",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rear Tire Profile Size Upgrade, Offroad Tires, Purist. Manual & Clutch Recommended. Strong Dirt/CC."
+          "tuneName": "Dirt/CC No Aero",
+          "shareCode": "166 850 131",
+          "notes": "AWD, 7.2L RJ Anderson Racing V8, No Aero, Offroad Race Tires, Rear Tire Profile Size Upgrade. Strong CC/Dirt, 01:05.713 Teotihuacan Scramble. 41.0s Desert Descent Trailblazer."
         }
       ]
     },
     {
-      "event": "Weekly Forzathon - Welcome to Australia",
+      "event": "(Tip: Approach from north-west, 74m/81yd runup)",
       "tunes": [
         {
-          "event": "Weekly Forzathon - Welcome to Australia",
-          "class": "Lamborghini Centenario LP 770-4",
-          "car": "Lamborghini Centenario LP 770-4 (S1 900)",
-          "creator": "VNX Letz",
+          "event": "(Tip: Approach from north-west, 74m/81yd runup)",
+          "class": "A 800 (Land Rover)",
+          "car": "Land Rover Defender 90 (M/C)",
+          "creator": "LogikJ",
+          "raceType": "Cross Country",
+          "tuneName": "CC/Dirt Strong",
+          "shareCode": "139 593 621",
+          "notes": "AWD, 7.2L RJ Anderson Racing V8, No Aero, Stock Rims, Offroad Race Tires, Rear Tire Profile Size Upgrade. Strong CC/Dirt, 01:05.762 Teotihuacan Scramble."
+        }
+      ]
+    },
+    {
+      "event": "(Video guide if you need help: https://youtu.be/BIZ6aFvjqfg?t=125 )",
+      "tunes": [
+        {
+          "event": "(Video guide if you need help: https://youtu.be/BIZ6aFvjqfg?t=125 )",
+          "class": "A 800 (Land Rover)",
+          "car": "Land Rover Range Rover '73 (M/C)",
+          "creator": "lphanhan",
+          "raceType": "Cross Country",
+          "tuneName": "RV8 Dirt/CC #1.3",
+          "shareCode": "626 197 696",
+          "notes": "AWD, 7.2L RJ Anderson Racing V8, Widebody Kit, No Aero, Stock Rims, Offroad Race Tires, Rear Tire Profile Size Upgrade. Strong CC/Dirt."
+        }
+      ]
+    },
+    {
+      "event": "Trailblazer (Cross Country) - Over The Dune (8s)",
+      "tunes": [
+        {
+          "event": "Trailblazer (Cross Country) - Over The Dune (8s)",
+          "class": "A 800 (Jaguar)",
+          "car": "Jaguar F-Pace S",
+          "creator": "LogikJ",
+          "raceType": "Cross Country",
+          "tuneName": "Strong Dirt V8",
+          "shareCode": "125 035 517",
+          "notes": "AWD, 6.2L Mercedes AMG V8, No Aero, Stock Rims, Offroad Race Tires, Rear Tire Profile Size Upgrade. Very Strong Dirt/CC, 01:04.897 Teotihuacan Scramble & 01:09.921 River Scramble. 45.3s Over The Dune Trailblazer."
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Approach from east, 880m/962yd runup)",
+      "tunes": [
+        {
+          "event": "(Tip: Approach from east, 880m/962yd runup)",
+          "class": "A 800 (Jaguar)",
+          "car": "Jaguar D-Type",
+          "creator": "TheDannny",
+          "raceType": "Cross Country",
+          "tuneName": "A Dirt Full Aero",
+          "shareCode": "504 118 145",
+          "notes": "AWD, 3.2L BMW i6, Full Aero, Stock Rims, Offroad Race TIres. Strong Dirt, 01:05.7xx Mangrove Scramble."
+        }
+      ]
+    },
+    {
+      "event": "(Video guide if you need help: https://youtu.be/BIZ6aFvjqfg?t=288 )",
+      "tunes": [
+        {
+          "event": "(Video guide if you need help: https://youtu.be/BIZ6aFvjqfg?t=288 )",
+          "class": "A 800 (Jaguar)",
+          "car": "Jaguar F-Type SVR",
+          "creator": "LogikJ",
+          "raceType": "Cross Country",
+          "tuneName": "Dirt Purist",
+          "shareCode": "169 455 980",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires, Purist. Good Dirt, 01:06.153 Teotihuacan Scramble."
+        }
+      ]
+    },
+    {
+      "event": "Street - Well Seasoned",
+      "tunes": [
+        {
+          "event": "Street - Well Seasoned",
+          "class": "A 800 (Country: UK)",
+          "car": "Jaguar F-Type SVR",
+          "creator": "LogikJ",
           "raceType": "Road",
-          "tuneName": "Purist 2025",
-          "shareCode": "114 298 645",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires, Purist. Strong AWD."
+          "tuneName": "Road Purist Upd",
+          "shareCode": "107 733 709",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires, Purist. Good AWD, mid ~01:03.xxx Horizon Mexico Circuit."
         }
       ]
     },
     {
-      "event": "Earn an Ultimate Speed Skill (200mph+)",
+      "event": "Dirt - Mini Mayhem",
       "tunes": [
         {
-          "event": "Earn an Ultimate Speed Skill (200mph+)",
-          "class": "Hot Wheels",
-          "car": "Hot Wheels Bone Shaker (S1 900)",
-          "creator": "PTW Subzero",
+          "event": "Dirt - Mini Mayhem",
+          "class": "B 700 (Mini)",
+          "car": "Mini Cooper S '65",
+          "creator": "TheDannny",
           "raceType": "Dirt",
-          "tuneName": "Dirt V1.4",
-          "shareCode": "103 954 453",
-          "notes": "AWD, 7.2L RJ Anderson Racing V8, Full Aero, Offroad Race Tires. Dirt Meta."
+          "tuneName": "K20 Dirt",
+          "shareCode": "180 904 952",
+          "notes": "AWD, 2.0L Honda VTEC i4, Widebody Kit, No Aero + Roof Spare Tire, Stock Rims, Offroad Race Tires"
         }
       ]
     },
     {
-      "event": "Earn 3 Stars at Drift Zones",
+      "event": "Weekly Forzathon - Welcome to the UK",
       "tunes": [
         {
-          "event": "Earn 3 Stars at Drift Zones",
-          "class": "Anything Goes",
-          "car": "Lotus Evija",
-          "creator": "OxGRIDRUNR",
-          "raceType": "Drift (Road)",
-          "tuneName": "TurboKnot",
-          "shareCode": "154 772 877",
-          "notes": "AWD, No Aero, Drag Tires, Dry Only, Purist. HW Drift Zone Meta."
+          "event": "Weekly Forzathon - Welcome to the UK",
+          "class": "McLaren Senna",
+          "car": "McLaren Senna (S2 998)",
+          "creator": "Marethu1",
+          "raceType": "Road",
+          "tuneName": "Race V2 (800 RA)",
+          "shareCode": "118 172 470",
+          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Full Aero, Race Slicks, Dry Only"
         }
       ]
     },
     {
-      "event": "(Tip: Disable Traction/Stability Control Assists for drifting)",
+      "event": "Earn 1+ Stars from Airfield Speed Zone",
       "tunes": [
         {
-          "event": "(Tip: Disable Traction/Stability Control Assists for drifting)",
-          "class": "Anything Goes",
-          "car": "Willys MB Jeep",
-          "creator": "trviis",
-          "raceType": "Drift (Road)",
-          "tuneName": "Drift Zones",
-          "shareCode": "848 240 820",
-          "notes": "AWD, 7.2L RJ Anderson Racing V8 w/ Anti-Lag Turbos, No Aero, Drag Tires. Drift Zone Meta."
+          "event": "Earn 1+ Stars from Airfield Speed Zone",
+          "class": "Willys MB Jeep",
+          "car": "Willys MB Jeep (A 800, M/C)",
+          "creator": "CybrexzzZ",
+          "raceType": "Road",
+          "tuneName": "Road Laji",
+          "shareCode": "717 371 009",
+          "notes": "AWD, 6.2L Chevrolet LS3 V8, Full Aero, Rally Tires, Rear Tire Profile Size Upgrade. Manual & Clutch Recommended."
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Approach from east)",
+      "tunes": [
+        {
+          "event": "(Tip: Approach from east)",
+          "class": "Willys MB Jeep",
+          "car": "Willys MB Jeep (A 800, M/C)",
+          "creator": "XSW 4002",
+          "raceType": "Road",
+          "tuneName": "CJ5 Lite",
+          "shareCode": "126 314 765",
+          "notes": "AWD, 6.2L Chevrolet LS3 V8, Full Aero, Rear Tire Profile Size Upgrade, Race Slicks, Dry Only. Manual & Clutch Recommended. Good AWD, 01:03.614 Horizon Mexico Circuit."
+        }
+      ]
+    },
+    {
+      "event": "Win a Road Racing Event",
+      "tunes": [
+        {
+          "event": "Win a Road Racing Event",
+          "class": "Aston Martin",
+          "car": "Aston Martin Valkyrie AMR Pro '22 (S2 998)",
+          "creator": "Sa1monBark",
+          "raceType": "Road",
+          "tuneName": "Tierra",
+          "shareCode": "167 390 627",
+          "notes": "AWD, Stock Engine, Stock Aero, Race Slicks, Dry Only. Good AWD (Handling), 00:47.822 Tierra Prospera Circuit."
         }
       ]
     }
