@@ -1,176 +1,71 @@
 {
-  "lastUpdated": "2025-08-26T06:15:17.759Z",
+  "lastUpdated": "2025-09-02T06:15:22.835Z",
   "races": [
     {
-      "event": "The Trial (Street) - Sun & Summer",
+      "event": "Trial (Road) - Rarity on the Roads",
       "tunes": [
         {
-          "event": "The Trial (Street) - Sun & Summer",
-          "class": "A 800 (Decade: 1990s)",
-          "car": "GMC Syclone (M/C)",
-          "creator": "Noa Seako",
-          "raceType": "Road",
-          "tuneName": "A Road V1.2",
-          "shareCode": "871 302 153",
-          "notes": "AWD, 6.2L Chevrolet LS3 V8, Full Aero, Manual & Clutch Recommended. AWD Meta."
-        }
-      ]
-    },
-    {
-      "event": "EventLab (Dirt) - Sherwood Forest Raceway",
-      "tunes": [
-        {
-          "event": "EventLab (Dirt) - Sherwood Forest Raceway",
-          "class": "B 700 (Modern Rally)",
-          "car": "Subaru Impreza WRX STI '04 (M/C, Shift @ 5.3K RPM)",
-          "creator": "Saeenu",
-          "raceType": "Dirt",
-          "tuneName": "B Dirt Shft 5.3K",
-          "shareCode": "114 496 728",
-          "notes": "AWD, 2.0L Subaru Turbo Rally F4, No Aero/Rally Lights, Offroad Race Tires. Manual & Clutch Recommended, Shift @ 5.3K RPM. Very Strong Dirt, 01:13.582 Mangrove Scramble."
-        }
-      ]
-    },
-    {
-      "event": "EventLab (Road) - Mulegé Grand Prix",
-      "tunes": [
-        {
-          "event": "EventLab (Road) - Mulegé Grand Prix",
-          "class": "A 800 (Modern Sports Cars)",
-          "car": "Honda S2000 CR '09",
+          "event": "Trial (Road) - Rarity on the Roads",
+          "class": "B 700 (Rare Classics)",
+          "car": "Jaguar E-Type",
           "creator": "Saeenu",
           "raceType": "Road",
-          "tuneName": "A Road No AeroV2",
-          "shareCode": "345 080 976",
-          "notes": "AWD, Stock Engine, No Aero, Rally Tires. Strong AWD, 00:57.398 Estadio Circuit."
+          "tuneName": "B Road No Aero",
+          "shareCode": "112 575 808",
+          "notes": "AWD, 3.2L BMW i6, No Aero, Stock Rims. Strong AWD, 01:03.960 Estadio Circuit."
         }
       ]
     },
     {
-      "event": "Speed Trap (Road) - Gran Puente (260mph/418kmh)",
+      "event": "EventLab (Road) - Edel-Circuit (Competition)",
       "tunes": [
         {
-          "event": "Speed Trap (Road) - Gran Puente (260mph/418kmh)",
+          "event": "EventLab (Road) - Edel-Circuit (Competition)",
+          "class": "S1 900 (Track Toys)",
+          "car": "Lamborghini Huracán STO",
+          "creator": "K1Z Bala",
+          "raceType": "Road",
+          "tuneName": "Catstar",
+          "shareCode": "128 438 797",
+          "notes": "AWD, Stock Engine, Full Aero (Stock Wing), Rally Tires. Strong AWD Grip, 00:55.471 Tierra Prospera Circuit."
+        }
+      ]
+    },
+    {
+      "event": "Playground Games (Aerodromo) - Survivin’ in the 90s",
+      "tunes": [
+        {
+          "event": "Playground Games (Aerodromo) - Survivin’ in the 90s",
+          "class": "S1 900 (Decade: 1990s)",
+          "car": "Mercedes-Benz AMG CLK GTR",
+          "creator": "TheDannny",
+          "raceType": "Playground Games",
+          "tuneName": "River WR",
+          "shareCode": "116 574 433",
+          "notes": "AWD, Stock Engine, Full Aero, Offroad Race Tires. Dirt Handling Meta, 01:02.299 River Scramble (Top #1 World Record)."
+        }
+      ]
+    },
+    {
+      "event": "Danger Sign (Road) - Launch Control (500m/1640ft)",
+      "tunes": [
+        {
+          "event": "Danger Sign (Road) - Launch Control (500m/1640ft)",
           "class": "S2 998 (Anything Goes)",
           "car": "Koenigsegg Jesko",
           "creator": "SSharku",
           "raceType": "Dirt",
           "tuneName": "Offroad Grip V4",
           "shareCode": "102 287 550",
-          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Stock Aero, Stock Rims, Offroad Race Tires. Highest Top Speed, PR Stunt Meta. 293.04mph Gran Puente Speed Trap."
+          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Stock Aero, Stock Rims, Offroad Race Tires. Highest Top Speed, PR Stunt Meta. 879.42m Launch Control Danger Sign."
         }
       ]
     },
     {
-      "event": "(Tip: Approach from east, 3.1km/1.9mi runup)",
+      "event": "(Tip: Approach from west, 4km/2.5mi runup)",
       "tunes": [
         {
-          "event": "(Tip: Approach from east, 3.1km/1.9mi runup)",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Mosler MT900S",
-          "creator": "trviis",
-          "raceType": "Road",
-          "tuneName": "296 Easy",
-          "shareCode": "111 072 172",
-          "notes": "AWD, 6.5L Lamborghini V12 w/ Anti-Lag Turbos, Stock Aero, Drag Tires, Dry Only. For PR Stunts/top speed only, not for racing!"
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/SGzLKWtNsxM )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/SGzLKWtNsxM )",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Hennessey Venom F5 (RWD)",
-          "creator": "VNX Letz",
-          "raceType": "Road",
-          "tuneName": "Powwah PI Flex",
-          "shareCode": "573 708 392",
-          "notes": "RWD, Stock Engine, No Aero, Race Slicks, Dry Only, Purist. Highest Top Speed."
-        }
-      ]
-    },
-    {
-      "event": "Speed Zone (Dirt) - Watersplash (100mph/160kmh)",
-      "tunes": [
-        {
-          "event": "Speed Zone (Dirt) - Watersplash (100mph/160kmh)",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Mercedes-Benz AMG CLK GTR",
-          "creator": "KapienPL",
-          "raceType": "Dirt",
-          "tuneName": "Handle DN",
-          "shareCode": "113 598 384",
-          "notes": "AWD, 4.7L Ferrari Racing V12 w/ Anti-Lag Turbos, Full Aero, Stock Rims, Offroad Race Tires. Dirt (Handling) Meta. 123.09mph Watersplash Speed Zone."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from north-east, 1.4km/0.9mi runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from north-east, 1.4km/0.9mi runup)",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Dodge SRT Viper GTS Anniversary Edition",
-          "creator": "KapienPL",
-          "raceType": "Dirt",
-          "tuneName": "Handling S2 Dirt",
-          "shareCode": "340 694 173",
-          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Full Aero + Diffuser, Offroad Race Tires. Very Strong/Near Meta Dirt."
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/SGzLKWtNsxM?t=97 )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/SGzLKWtNsxM?t=97 )",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Porsche 911 GT1 Strassenversion",
-          "creator": "Fenrir3268",
-          "raceType": "Dirt",
-          "tuneName": "S2 Dirt 2024 V2",
-          "shareCode": "369 152 215",
-          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Full Aero, Offroad Race Tires. Very Strong/Near Meta Dirt."
-        }
-      ]
-    },
-    {
-      "event": "Trailblazer (Dirt) - Puerta Pétrea (28s)",
-      "tunes": [
-        {
-          "event": "Trailblazer (Dirt) - Puerta Pétrea (28s)",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Koenigsegg Jesko",
-          "creator": "KapienPL",
-          "raceType": "Dirt",
-          "tuneName": "Dirtgsegg",
-          "shareCode": "741 740 072",
-          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Stock Aero, Stock Rims, Offroad Race Tires. Highest Top Speed, PR Stunt Meta. 40.436s Puerta Petrea Trailblazer."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from west, 280m/306yd runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from west, 280m/306yd runup)",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Rimac Concept Two",
-          "creator": "KapienPL",
-          "raceType": "Dirt",
-          "tuneName": "Dirt/CC EV",
-          "shareCode": "176 887 891",
-          "notes": "AWD, Full Aero, Offroad Race Tires. Fastest Low-End Acceleration."
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/SGzLKWtNsxM?t=178 )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/SGzLKWtNsxM?t=178 )",
+          "event": "(Tip: Approach from west, 4km/2.5mi runup)",
           "class": "S2 998 (Anything Goes)",
           "car": "Mosler MT900S",
           "creator": "KapienPL",
@@ -182,92 +77,257 @@
       ]
     },
     {
-      "event": "Road - Show Off",
+      "event": "(Video guide if you need help: https://youtu.be/K1G_zFu1kzc )",
       "tunes": [
         {
-          "event": "Road - Show Off",
-          "class": "A 800 (Open-Top Cars)",
-          "car": "Hot Wheels Bone Shaker",
-          "creator": "ESV Mars",
+          "event": "(Video guide if you need help: https://youtu.be/K1G_zFu1kzc )",
+          "class": "S2 998 (Anything Goes)",
+          "car": "Hennessey Venom F5 (RWD)",
+          "creator": "VNX Letz",
           "raceType": "Road",
-          "tuneName": "1.01.6 HMC",
-          "shareCode": "841 257 999",
-          "notes": "AWD, Stock Engine, Full Aero, Stock Rims, Rally Tires. AWD Meta, 01:01.6xx Horizon Mexico Circuit."
+          "tuneName": "Powwah PI Flex",
+          "shareCode": "573 708 392",
+          "notes": "RWD, Stock Engine, No Aero, Race Slicks, Dry Only, Purist. Highest Top Speed."
         }
       ]
     },
     {
-      "event": "Cross Country - Rocks and Roll",
+      "event": "Drift Zone (Road) - Los Campos (150,000 pts)",
       "tunes": [
         {
-          "event": "Cross Country - Rocks and Roll",
-          "class": "B 700 (Pickups & 4x4's)",
-          "car": "International Scout 800A (M/C)",
-          "creator": "Cast Haste",
-          "raceType": "Cross Country",
-          "tuneName": "WR Hunter Donk",
-          "shareCode": "117 003 077",
-          "notes": "AWD, 6.2L Chevrolet LS3 V8, Rear Aero, Rear Tire Profile Size Upgrade, Offroad Race Tires. Manual & Clutch Recommended. CC/Dirt Meta, 01:08.729 Teotihuacan Scramble (#1 WR)."
+          "event": "Drift Zone (Road) - Los Campos (150,000 pts)",
+          "class": "S2 998 (Anything Goes)",
+          "car": "Formula Drift #117 599 GTB Fiorano",
+          "creator": "lstcroix10",
+          "raceType": "Drift (Road)",
+          "tuneName": "Reservoir",
+          "shareCode": "150 753 124",
+          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Stock Aero, Drag Tires, Dry Only. 235.9k pts Los Campos Drift Zone."
         }
       ]
     },
     {
-      "event": "Dirt - Trailing Dirt",
+      "event": "(Tip: Approach from east, 0.8km/0.5mi runup)",
       "tunes": [
         {
-          "event": "Dirt - Trailing Dirt",
-          "class": "S1 900 (Rally Monsters)",
-          "car": "Hoonigan Ford RS200 Evolution",
+          "event": "(Tip: Approach from east, 0.8km/0.5mi runup)",
+          "class": "S2 998 (Anything Goes)",
+          "car": "Lotus Evija",
+          "creator": "OxGRIDRUNR",
+          "raceType": "Drift (Road)",
+          "tuneName": "TurboKnot",
+          "shareCode": "154 772 877",
+          "notes": "AWD, No Aero, Drag Tires, Dry Only, Purist. Road Drift Zone Meta."
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Disable Traction/Stability Control Assists for drifting)",
+      "tunes": [
+        {
+          "event": "(Tip: Disable Traction/Stability Control Assists for drifting)",
+          "class": "S2 998 (Anything Goes)",
+          "car": "Formula Drift #34 Toyota Supra MKIV",
+          "creator": "trviis",
+          "raceType": "Drift (Road)",
+          "tuneName": "Tierra WR",
+          "shareCode": "485 352 649",
+          "notes": "AWD, Stock Engine w/ Anti-Lag Turbo, Stock Aero, Drag Tires, Dry Only. Road Drift Zone Meta."
+        }
+      ]
+    },
+    {
+      "event": "(Video guide if you need help: https://youtu.be/K1G_zFu1kzc?t=116 )",
+      "tunes": [
+        {
+          "event": "(Video guide if you need help: https://youtu.be/K1G_zFu1kzc?t=116 )",
+          "class": "S2 998 (Anything Goes)",
+          "car": "Formula Drift #64 Forsberg Racing Nissan Z",
+          "creator": "trviis",
+          "raceType": "Drift (Road)",
+          "tuneName": "Goated",
+          "shareCode": "864 033 578",
+          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Stock Aero, Drag Tires, Dry Only"
+        }
+      ]
+    },
+    {
+      "event": "Trailblazer (Dirt) - Canyon Run (28s)",
+      "tunes": [
+        {
+          "event": "Trailblazer (Dirt) - Canyon Run (28s)",
+          "class": "S2 998 (Anything Goes)",
+          "car": "Mercedes-Benz AMG CLK GTR",
           "creator": "KapienPL",
           "raceType": "Dirt",
-          "tuneName": "S1 Rally/CC Car",
-          "shareCode": "716 642 226",
-          "notes": "AWD, 7.2L RJ Anderson Racing V8, No Aero + Rally Foglights, Offroad Race Tires. Very Strong/Near Meta Dirt, 00:58.720 Teotihuacan Scramble."
+          "tuneName": "Race Susp Spec",
+          "shareCode": "788 818 587",
+          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Full Aero, Stock Rims, Offroad Race Tires. Dirt Meta. 39.7s Canyon Run Trailblazer."
         }
       ]
     },
     {
-      "event": "Weekly Forzathon - Summer Shelby",
+      "event": "(Tip: Approach from south-east, 664m/726yd runup)",
       "tunes": [
         {
-          "event": "Weekly Forzathon - Summer Shelby",
-          "class": "Ford Shelby GT500 '13",
-          "car": "Ford Shelby GT500 '13 (A 800)",
+          "event": "(Tip: Approach from south-east, 664m/726yd runup)",
+          "class": "S2 998 (Anything Goes)",
+          "car": "McLaren F1 GT",
+          "creator": "KapienPL",
+          "raceType": "Dirt",
+          "tuneName": "S2 Monstrosity",
+          "shareCode": "149 510 306",
+          "notes": "AWD, Stock Engine, Full Aero, Offroad Race Tires. Very Strong/Near Meta Dirt."
+        }
+      ]
+    },
+    {
+      "event": "(Video guide if you need help: https://youtu.be/K1G_zFu1kzc?t=207 )",
+      "tunes": [
+        {
+          "event": "(Video guide if you need help: https://youtu.be/K1G_zFu1kzc?t=207 )",
+          "class": "S2 998 (Anything Goes)",
+          "car": "Ultima 1020 Evolution Coupe",
+          "creator": "KapienPL",
+          "raceType": "Dirt",
+          "tuneName": "Turned Up To 11",
+          "shareCode": "162 081 450",
+          "notes": "AWD, 7.7L TVR V12 w/ Anti-Lag Turbos, Full Aero (Stock Wing), Offroad Race Tires. Strong Dirt."
+        }
+      ]
+    },
+    {
+      "event": "Street - Modern Spin",
+      "tunes": [
+        {
+          "event": "Street - Modern Spin",
+          "class": "A 800 (Modern Sports Cars)",
+          "car": "Audi TT RS Coupé '10 (M/C)",
+          "creator": "JakeGTR IX",
+          "raceType": "Road",
+          "tuneName": "Purist",
+          "shareCode": "151 730 569",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires, Purist. Manual & Clutch Recommended. AWD Purist Meta, high ~01:02.xxx Horizon Mexico Circuit."
+        }
+      ]
+    },
+    {
+      "event": "Cross Country - 3, 2, 1...",
+      "tunes": [
+        {
+          "event": "Cross Country - 3, 2, 1...",
+          "class": "A 800 (Unlimited Offroad)",
+          "car": "Jeep Trailcat (M/C)",
+          "creator": "LogikJ",
+          "raceType": "Cross Country",
+          "tuneName": "A800 Dirt/CC/PR",
+          "shareCode": "157 773 926",
+          "notes": "AWD, 3.2L BMW i6, No Aero. Very Strong AWD."
+        }
+      ]
+    },
+    {
+      "event": "Weekly Forzathon - Phoenix Rising",
+      "tunes": [
+        {
+          "event": "Weekly Forzathon - Phoenix Rising",
+          "class": "Pontiac Firebird Trans AM GTA '87",
+          "car": "Pontiac Firebird Trans Am GTA '87 (A 800)",
           "creator": "Saeenu",
           "raceType": "Road",
-          "tuneName": "Road No Aero V2",
-          "shareCode": "184 805 936",
-          "notes": "AWD, Stock Engine, No Aero, Rally Tires. Good AWD, 00:58.127 Estadio Circuit."
+          "tuneName": "A Road Widebody",
+          "shareCode": "309 987 656",
+          "notes": "AWD, 6.2L Chevrolet LS3 V8, Widebody Kit, Full Aero (Nearly Invisible Rear Wing) + Hood Scoop, Stock Rims, Rally Tires. Strong AWD Grip, 00:57.803 Estadio Circuit."
         }
       ]
     },
     {
-      "event": "Earn 3 Stars from any Danger Sign",
+      "event": "Jump ~300m+ on a Danger Sign",
       "tunes": [
         {
-          "event": "Earn 3 Stars from any Danger Sign",
-          "class": "Jaguar",
-          "car": "Jaguar Sport XJR-15 (S1 900)",
-          "creator": "Fenrir3268",
+          "event": "Jump ~300m+ on a Danger Sign",
+          "class": "Caterham Superlight R500",
+          "car": "Caterham Superlight R500 (A 800)",
+          "creator": "Rocklxd",
           "raceType": "Dirt",
-          "tuneName": "All In One XJR",
-          "shareCode": "511 084 791",
-          "notes": "AWD, 7.7L TVR V12, No Aero, Stock Rims, Offroad Race Tires"
+          "tuneName": "A Dirt V1.1",
+          "shareCode": "248 787 070",
+          "notes": "AWD, 3.2L BMW i6, Full Aero, Offroad Race Tires. Strong Dirt."
         }
       ]
     },
     {
-      "event": "(Tip: Try Hotel Danger Sign for easy stars)",
+      "event": "(Tip: Use Runway Danger Sign for easy jump distance)",
       "tunes": [
         {
-          "event": "(Tip: Try Hotel Danger Sign for easy stars)",
-          "class": "Jaguar",
-          "car": "Jaguar F-Pace S (A 800)",
+          "event": "(Tip: Use Runway Danger Sign for easy jump distance)",
+          "class": "Caterham Superlight R500",
+          "car": "Caterham Superlight R500 (A 800, RWD, TCS)",
+          "creator": "AMS Carver",
+          "raceType": "Road",
+          "tuneName": "Lol",
+          "shareCode": "744 820 967",
+          "notes": "RWD, 3.0L Ariel Racing V8, Rear Aero, Drift Tires, Dry Only. Traction Control Required! RWD Powerbuild."
+        }
+      ]
+    },
+    {
+      "event": "Earn 2 Stars at the Avenida Speed Trap",
+      "tunes": [
+        {
+          "event": "Earn 2 Stars at the Avenida Speed Trap",
+          "class": "Anything Goes",
+          "car": "Ferrari 512 S (S1 900)",
           "creator": "LogikJ",
-          "raceType": "Dirt",
-          "tuneName": "Strong Dirt V8",
-          "shareCode": "125 035 517",
-          "notes": "AWD, 6.2L Mercedes AMG V8, No Aero, Stock Rims, Offroad Race Tires, Rear Tire Profile Size Upgrade. Very Strong Dirt/CC, 01:04.897 Teotihuacan Scramble & 01:09.921 River Scramble."
+          "raceType": "Road",
+          "tuneName": "S1 Road AWD",
+          "shareCode": "650 714 864",
+          "notes": "AWD, Stock Engine, Stock Aero, Stock Rims. Very Strong/Near Meta AWD, mid ~00:55.xxx Horizon Mexico Circuit."
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Approach from south, 1.8km/1.1mi runup)",
+      "tunes": [
+        {
+          "event": "(Tip: Approach from south, 1.8km/1.1mi runup)",
+          "class": "Anything Goes",
+          "car": "Alfa Romeo Giulia TZ2 (A 800)",
+          "creator": "LogikJ",
+          "raceType": "Road",
+          "tuneName": "Road AWD No Aero",
+          "shareCode": "546 050 029",
+          "notes": "AWD, 3.2L BMW i6, No Aero, Stock Rims, Rally Tires. Very Strong AWD."
+        }
+      ]
+    },
+    {
+      "event": "Earn 2 Stars at any Speed Zone",
+      "tunes": [
+        {
+          "event": "Earn 2 Stars at any Speed Zone",
+          "class": "Classic Racers",
+          "car": "Porsche 906 Carrera 6 (S1 900, RWD, M/C)",
+          "creator": "K1Z Bala",
+          "raceType": "Road",
+          "tuneName": "HMC",
+          "shareCode": "922 494 022",
+          "notes": "RWD, 4.7L Ferrari Racing V12 w/ Anti-Lag Turbos, Full Aero, Race Slicks, Dry Only. Manual & Clutch Recommended. RWD Powerbuild Meta, 00:52.704 Horizon Mexico Circuit (Top #1 World Record)."
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Use Ringroad Speed Zone for easy stars)",
+      "tunes": [
+        {
+          "event": "(Tip: Use Ringroad Speed Zone for easy stars)",
+          "class": "Classic Racers",
+          "car": "Ferrari 512 S (S1 900, RWD, M/C)",
+          "creator": "K1Z Bala",
+          "raceType": "Road",
+          "tuneName": "Quick PB",
+          "shareCode": "144 253 217",
+          "notes": "RWD, 4.7L Ferrari Racing V12 w/ Anti-Lag Turbos, Stock Aero. Manual & Clutch Recommended. Very Strong/Near Meta RWD Powerbuild, 00:53.885 Horizon Mexico Circuit."
         }
       ]
     }
