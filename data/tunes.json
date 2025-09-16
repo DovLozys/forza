@@ -1,273 +1,183 @@
 {
-  "lastUpdated": "2025-09-09T06:14:57.496Z",
+  "lastUpdated": "2025-09-16T06:14:49.857Z",
   "races": [
     {
-      "event": "The Trial (Dirt) - Seeing the Sights",
+      "event": "The Trial (Road) - Stock Showdown: Mercedes-Benz 190E",
       "tunes": [
         {
-          "event": "The Trial (Dirt) - Seeing the Sights",
-          "class": "A 800 (Decade: 2010s)",
-          "car": "Hot Wheels Bone Shaker",
+          "event": "The Trial (Road) - Stock Showdown: Mercedes-Benz 190E",
+          "class": "C 579 (Mercedes-Benz 190E)",
+          "car": "Mercedes-Benz 190E 2.5-16 Evolution II (RWD, M/C)",
+          "creator": "Saeenu",
+          "raceType": "Road",
+          "tuneName": "Seasonal TrialV2",
+          "shareCode": "245 579 828",
+          "notes": "RWD, Stock Engine, Stock Aero, Stock Rims, Purist, No Upgrades Build. Manual & Clutch Recommended."
+        }
+      ]
+    },
+    {
+      "event": "EventLab (Road) - Shipyard Autocross Battle",
+      "tunes": [
+        {
+          "event": "EventLab (Road) - Shipyard Autocross Battle",
+          "class": "B 700 (BMW)",
+          "car": "BMW X5 M",
+          "creator": "LogikJ",
+          "raceType": "Road",
+          "tuneName": "Road Purist Grip",
+          "shareCode": "118 586 922",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires, Rear Tire Profile Size Upgrade, Purist. AWD Grip, 01:04.812 Estadio Circuit."
+        }
+      ]
+    },
+    {
+      "event": "Playground Games (El Estadio Horizon) - Down the Hatch",
+      "tunes": [
+        {
+          "event": "Playground Games (El Estadio Horizon) - Down the Hatch",
+          "class": "B 700 (German Hot Hatch)",
+          "car": "Volkswagen Golf R32 (M/C)",
+          "creator": "LogikJ",
+          "raceType": "Dirt",
+          "tuneName": "Dirt/PGG Purist",
+          "shareCode": "183 489 377",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires, Purist. Manual & Clutch Recommended."
+        }
+      ]
+    },
+    {
+      "event": "Danger Sign (Road) - Launch Control (320m/1050ft)",
+      "tunes": [
+        {
+          "event": "Danger Sign (Road) - Launch Control (320m/1050ft)",
+          "class": "A 800 (M-B A45 AMG)",
+          "car": "Mercedes-Benz A 45 AMG",
+          "creator": "Saeenu",
+          "raceType": "Road",
+          "tuneName": "Danger Sign PR",
+          "shareCode": "110 611 811",
+          "notes": "AWD, Stock Engine, No Aero, Drag Tires, Dry Only. For PR Stunts only, not racing! 438.58m Launch Control Danger Sign."
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Approach from west, 4km/2.5mi runup)",
+      "tunes": [
+        {
+          "event": "(Tip: Approach from west, 4km/2.5mi runup)",
+          "class": "A 800 (M-B A45 AMG)",
+          "car": "Mercedes-Benz A 45 AMG",
+          "creator": "Fenrir3268",
+          "raceType": "Dirt",
+          "tuneName": "Purist A Dirt",
+          "shareCode": "717 845 303",
+          "notes": "AWD, Stock Engine, No Aero, Offroad Race Tires, Purist. 325.17m Launch Control Danger Sign."
+        }
+      ]
+    },
+    {
+      "event": "Speed Zone (Road) - Switchbacks (95mph/153kmh)",
+      "tunes": [
+        {
+          "event": "Speed Zone (Road) - Switchbacks (95mph/153kmh)",
+          "class": "A 800 (Audi TTS '15)",
+          "car": "Audi TTS Coupé '15",
+          "creator": "LogikJ",
+          "raceType": "Road",
+          "tuneName": "Road Purist Upd",
+          "shareCode": "510 613 299",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires, Purist. 103.93mph Switchbacks Speed Zone."
+        }
+      ]
+    },
+    {
+      "event": "Drift Zone (Road) - Las Curvas (90,000 pts)",
+      "tunes": [
+        {
+          "event": "Drift Zone (Road) - Las Curvas (90,000 pts)",
+          "class": "S1 900 (#98 BMW 325i)",
+          "car": "Formula Drift #98 BMW 325i",
+          "creator": "OxGRIDRUNR",
+          "raceType": "Drift (Road)",
+          "tuneName": "AWD Drift",
+          "shareCode": "289 569 463",
+          "notes": "AWD, 7.7L TVR V12 w/ Anti-Lag Turbos, Stock Aero, Drag Tires, Dry Only. 123.4k pts Las Curvas Drift Zone."
+        }
+      ]
+    },
+    {
+      "event": "Street - Meet and Street",
+      "tunes": [
+        {
+          "event": "Street - Meet and Street",
+          "class": "A 800 (Audi VS. Porsche)",
+          "car": "Porsche 906 Carrera 6",
+          "creator": "Saeenu",
+          "raceType": "Road",
+          "tuneName": "56.9 Estadio A",
+          "shareCode": "951 767 676",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires. Very Strong/Near Meta AWD, 00:56.918 Estadio Circuit."
+        }
+      ]
+    },
+    {
+      "event": "Cross Country - Pick Me Up",
+      "tunes": [
+        {
+          "event": "Cross Country - Pick Me Up",
+          "class": "B 700 (German Pickups & 4x4's)",
+          "car": "Mercedes-Benz X-Class (M/C)",
+          "creator": "TheDannny",
+          "raceType": "Cross Country",
+          "tuneName": "Dirt 1.1 M/C",
+          "shareCode": "146 268 736",
+          "notes": "AWD, 6.2L Mercedes AMG V8 w/ Anti-Lag Turbos, Pickup Designs Widebody Kit + Sport Rear Wing, Rear Tire Profile Size Upgrade, Offroad Race Tires. Manual & Clutch Recommended. Strong CC/Dirt."
+        }
+      ]
+    },
+    {
+      "event": "Weekly Forzathon - The AMG Treatment",
+      "tunes": [
+        {
+          "event": "Weekly Forzathon - The AMG Treatment",
+          "class": "Mercedes-Benz SLK 55 AMG",
+          "car": "Mercedes-Benz SLK 55 AMG (A 800, Shift @ 7K RPM)",
+          "creator": "TheDannny",
+          "raceType": "Road",
+          "tuneName": "Road ~7K Shift",
+          "shareCode": "182 518 448",
+          "notes": "AWD, Stock Engine, Full Aero. Shift @ 7K RPM."
+        }
+      ]
+    },
+    {
+      "event": "Complete Trebol Speed Zone",
+      "tunes": [
+        {
+          "event": "Complete Trebol Speed Zone",
+          "class": "Porsche Taycan Turbo S",
+          "car": "Porsche Taycan Turbo S (S1 900)",
+          "creator": "trviis",
+          "raceType": "Road",
+          "tuneName": "HW Top Speed",
+          "shareCode": "162 962 341",
+          "notes": "AWD, No Aero, Race Slicks, Dry Only, Purist. For top speed only, not racing!"
+        }
+      ]
+    },
+    {
+      "event": "Earn 5 Stars at Danger Signs",
+      "tunes": [
+        {
+          "event": "Earn 5 Stars at Danger Signs",
+          "class": "Porsche 914/6",
+          "car": "Porsche 914/6 (A 800, Shift @ 5.3K RPM)",
           "creator": "PTW Subzero",
           "raceType": "Dirt",
-          "tuneName": "Dirt V1.1",
-          "shareCode": "143 783 407",
-          "notes": "AWD, Stock Engine, Full Aero, Offroad Race Tires. Dirt Meta, 01:26.697 El Pipila Scramble (Top #1 World Record)."
-        }
-      ]
-    },
-    {
-      "event": "EventLab (Road) - Mulegé Street Circuit Open",
-      "tunes": [
-        {
-          "event": "EventLab (Road) - Mulegé Street Circuit Open",
-          "class": "A 800 (Retro Supercars)",
-          "car": "Ferrari F355 Berlinetta",
-          "creator": "Saeenu",
-          "raceType": "Road",
-          "tuneName": "Estadio 56.9",
-          "shareCode": "551 124 895",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires. Very Strong/Near Meta AWD, 00:56.935 Estadio Circuit."
-        }
-      ]
-    },
-    {
-      "event": "EventLab (Dirt) - Airplane Graveyard Circuit",
-      "tunes": [
-        {
-          "event": "EventLab (Dirt) - Airplane Graveyard Circuit",
-          "class": "A 800 (Rally Monsters)",
-          "car": "Opel Manta 400",
-          "creator": "LogikJ",
-          "raceType": "Dirt",
-          "tuneName": "A Dirt No Aero",
-          "shareCode": "104 689 113",
-          "notes": "AWD, 3.2L BMW i6, No Aero, Stock Rims, Offroad Race Tires. Strong Dirt, 01:05.743 Teotihuacan Scramble."
-        }
-      ]
-    },
-    {
-      "event": "Danger Sign (Dirt) - Eagle's Perch (350m/1148ft)",
-      "tunes": [
-        {
-          "event": "Danger Sign (Dirt) - Eagle's Perch (350m/1148ft)",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Koenigsegg Jesko",
-          "creator": "SSharku",
-          "raceType": "Dirt",
-          "tuneName": "Offroad Grip V4",
-          "shareCode": "102 287 550",
-          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Stock Aero, Stock Rims, Offroad Race Tires. Highest Top Speed, PR Stunt Meta. 474.23m Eagle's Perch Danger Sign."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from west, 1.9km/1.2mi runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from west, 1.9km/1.2mi runup)",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Rimac Concept Two",
-          "creator": "Rocklxd",
-          "raceType": "Dirt",
-          "tuneName": "Fun Offroad",
-          "shareCode": "920 072 105",
-          "notes": "AWD, No Aero, Offroad Race Tires, Purist. Fastest Low-End Acceleration."
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/S-YP6Wlutc0 )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/S-YP6Wlutc0 )",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Mosler MT900S",
-          "creator": "KapienPL",
-          "raceType": "Dirt",
-          "tuneName": "S2 Offroad",
-          "shareCode": "147 102 669",
-          "notes": "AWD, 7.2L RJ Anderson Racing V8, Stock Aero, Offroad Race Tires."
-        }
-      ]
-    },
-    {
-      "event": "Speed Trap (Road) - Drag Strip (260mph/419kmh)",
-      "tunes": [
-        {
-          "event": "Speed Trap (Road) - Drag Strip (260mph/419kmh)",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Koenigsegg Jesko",
-          "creator": "SSharku",
-          "raceType": "Dirt",
-          "tuneName": "Offroad Grip V4",
-          "shareCode": "102 287 550",
-          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Stock Aero, Stock Rims, Offroad Race Tires. Highest Top Speed, PR Stunt Meta."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from north-west, 3km/1.9mi runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from north-west, 3km/1.9mi runup)",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Mosler MT900S",
-          "creator": "trviis",
-          "raceType": "Road",
-          "tuneName": "296 Easy",
-          "shareCode": "111 072 172",
-          "notes": "AWD, 6.5L Lamborghini V12 w/ Anti-Lag Turbos, Stock Aero, Drag Tires, Dry Only. For PR Stunts/top speed only, not for racing!"
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/S-YP6Wlutc0?t=78 )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/S-YP6Wlutc0?t=78 )",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Rimac Concept Two",
-          "creator": "Sa1monBark",
-          "raceType": "Road",
-          "tuneName": "S2 Road",
-          "shareCode": "169 526 044",
-          "notes": "AWD, Full Aero, Race Slicks, Dry Only. 279.05mph Drag Strip Speed Trap."
-        }
-      ]
-    },
-    {
-      "event": "Trailblazer (Cross Country) - La Marisma (25s)",
-      "tunes": [
-        {
-          "event": "Trailblazer (Cross Country) - La Marisma (25s)",
-          "class": "S2 998 (Anything Goes)",
-          "car": "Koenigsegg Jesko",
-          "creator": "KapienPL",
-          "raceType": "Cross Country",
-          "tuneName": "Dirtgsegg",
-          "shareCode": "741 740 072",
-          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Stock Aero, Stock Rims, Offroad Race Tires. Highest Top Speed, PR Stunt Meta. 40.7s La Marisma Trailblazer."
-        }
-      ]
-    },
-    {
-      "event": "Street - Number 1 Rule",
-      "tunes": [
-        {
-          "event": "Street - Number 1 Rule",
-          "class": "B 700 (Retro Saloons)",
-          "car": "Ford Sierra Cosworth RS500",
-          "creator": "Saeenu",
-          "raceType": "Road",
-          "tuneName": "B Road No Aero V2",
-          "shareCode": "534 007 356",
-          "notes": "AWD, 3.2L BMW i6, No Aero. Very Strong AWD, 01:03.729 Estadio Circuit."
-        }
-      ]
-    },
-    {
-      "event": "Road - The Little Things",
-      "tunes": [
-        {
-          "event": "Road - The Little Things",
-          "class": "C 600 (Classic Rally)",
-          "car": "Alpine A110 1600S",
-          "creator": "Saeenu",
-          "raceType": "Road",
-          "tuneName": "Seasonal Road C",
-          "shareCode": "143 649 127",
-          "notes": "AWD, Stock Engine, Full Aero, Stock Rims. Strong AWD Grip, 01:10.435 Estadio Circuit & 01:00.261 Lookout Circuit."
-        }
-      ]
-    },
-    {
-      "event": "Weekly Forzathon - New and Improved",
-      "tunes": [
-        {
-          "event": "Weekly Forzathon - New and Improved",
-          "class": "Lexus RC F '15",
-          "car": "Lexus RC F '15 (A 800)",
-          "creator": "LogikJ",
-          "raceType": "Road",
-          "tuneName": "Road AWD Upd",
-          "shareCode": "586 131 991",
-          "notes": "AWD, 6.2L Mercedes AMG V8, No Aero, Vorsteiner Rims, Rally Tires"
-        }
-      ]
-    },
-    {
-      "event": "Earn 10 Wreckage Skills",
-      "tunes": [
-        {
-          "event": "Earn 10 Wreckage Skills",
-          "class": "GT Cars",
-          "car": "Aston Martin Vantage '19 (S1 900)",
-          "creator": "KapienPL",
-          "raceType": "Dirt",
-          "tuneName": "Dirt/Rally Car",
-          "shareCode": "860 775 008",
-          "notes": "AWD, 4.7L Ferrari Racing V12 w/ Anti-Lag Turbos, Offroad Race Tires"
-        }
-      ]
-    },
-    {
-      "event": "Earn 6 Stars at Drift Zones",
-      "tunes": [
-        {
-          "event": "Earn 6 Stars at Drift Zones",
-          "class": "Anything Goes",
-          "car": "Lotus Evija",
-          "creator": "OxGRIDRUNR",
-          "raceType": "Drift (Road)",
-          "tuneName": "TurboKnot",
-          "shareCode": "154 772 877",
-          "notes": "AWD, No Aero, Drag Tires, Dry Only, Purist. HW Drift Zone Meta."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Disable Traction/Stability Control Assists for drifting)",
-      "tunes": [
-        {
-          "event": "(Tip: Disable Traction/Stability Control Assists for drifting)",
-          "class": "Anything Goes",
-          "car": "Caterham Superlight R500",
-          "creator": "OxGRIDRUNR",
-          "raceType": "Drift (Road)",
-          "tuneName": "Nutals w/AntiLag",
-          "shareCode": "604 849 877",
-          "notes": "AWD, 3.0L Ariel Racing V8, No Aero, Drag Tires, Dry Only. Slow/Tight Road Drift Zone Meta. Tune originally created by Nvtals."
-        }
-      ]
-    },
-    {
-      "event": "Win a Street Race",
-      "tunes": [
-        {
-          "event": "Win a Street Race",
-          "class": "Country: Japan",
-          "car": "Toyota GR Supra (A 800)",
-          "creator": "Move33R",
-          "raceType": "Road",
-          "tuneName": "AR12 Purist",
-          "shareCode": "839 581 822",
-          "notes": "AWD, 6.2L Chevrolet LS3 V8, Full Aero (SFLA Wing) + Toyota Heritage Ed. Sideskirt, Rally Tires. Strong AWD, 00:49.600 Lookout Circuit. Tune settings available here."
-        }
-      ]
-    },
-    {
-      "event": "Complete Round 3 of Horizon Arcade",
-      "tunes": [
-        {
-          "event": "Complete Round 3 of Horizon Arcade",
-          "class": "Anything Goes",
-          "car": "Lamborghini Sesto Elemento Forza Edition (X 999)",
-          "creator": "trviis",
-          "raceType": "Road",
-          "tuneName": "1185",
-          "shareCode": "676 233 508",
-          "notes": "AWD, 4.7L Ferrari Racing V12 w/ Anti-Lag Turbos, Full Aero, Race Slicks, Dry Only. X Road Meta."
+          "tuneName": "Full Aero V3",
+          "shareCode": "196 988 021",
+          "notes": "AWD, 2.0L Subaru Turbo Rally F4, Full Aero, Offroad Race Tires. Shift @ 5.3K RPM. Very Strong/Near Meta Dirt, 01:09.975 River Scramble."
         }
       ]
     }
