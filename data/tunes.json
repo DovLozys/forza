@@ -1,161 +1,206 @@
 {
-  "lastUpdated": "2025-09-16T06:14:49.857Z",
+  "lastUpdated": "2025-09-23T06:15:04.417Z",
   "races": [
     {
-      "event": "The Trial (Road) - Stock Showdown: Mercedes-Benz 190E",
+      "event": "The Trial (Road) - Stock Showdown: BMW M2 Coupé",
       "tunes": [
         {
-          "event": "The Trial (Road) - Stock Showdown: Mercedes-Benz 190E",
-          "class": "C 579 (Mercedes-Benz 190E)",
-          "car": "Mercedes-Benz 190E 2.5-16 Evolution II (RWD, M/C)",
+          "event": "The Trial (Road) - Stock Showdown: BMW M2 Coupé",
+          "class": "A 718 (BMW M2 '16)",
+          "car": "BMW M2 Coupé '16",
           "creator": "Saeenu",
           "raceType": "Road",
-          "tuneName": "Seasonal TrialV2",
-          "shareCode": "245 579 828",
-          "notes": "RWD, Stock Engine, Stock Aero, Stock Rims, Purist, No Upgrades Build. Manual & Clutch Recommended."
+          "tuneName": "Seasonal Trial",
+          "shareCode": "134 588 216",
+          "notes": "AWD, 4.0L BMW V8, Full Aero, Stock Rims. 01:29.524 Plaza Circuit."
         }
       ]
     },
     {
-      "event": "EventLab (Road) - Shipyard Autocross Battle",
+      "event": "(Tip: Custom upgrades are allowed for this Trial!)",
       "tunes": [
         {
-          "event": "EventLab (Road) - Shipyard Autocross Battle",
-          "class": "B 700 (BMW)",
-          "car": "BMW X5 M",
+          "event": "(Tip: Custom upgrades are allowed for this Trial!)",
+          "class": "A 718 (BMW M2 '16)",
+          "car": "BMW M2 Coupé '16 (RWD, M/C)",
           "creator": "LogikJ",
           "raceType": "Road",
-          "tuneName": "Road Purist Grip",
-          "shareCode": "118 586 922",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires, Rear Tire Profile Size Upgrade, Purist. AWD Grip, 01:04.812 Estadio Circuit."
+          "tuneName": "Trial RWD",
+          "shareCode": "744 228 056",
+          "notes": "RWD, 4.0L BMW V8, No Aero. Manual & Clutch Recommended."
         }
       ]
     },
     {
-      "event": "Playground Games (El Estadio Horizon) - Down the Hatch",
+      "event": "Horizon Arcade",
       "tunes": [
         {
-          "event": "Playground Games (El Estadio Horizon) - Down the Hatch",
-          "class": "B 700 (German Hot Hatch)",
-          "car": "Volkswagen Golf R32 (M/C)",
+          "event": "Horizon Arcade",
+          "class": "Anything Goes",
+          "car": "Lamborghini Sesto Elemento Forza Edition (X 999)",
+          "creator": "trviis",
+          "raceType": "Road",
+          "tuneName": "1185",
+          "shareCode": "676 233 508",
+          "notes": "AWD, 4.7L Ferrari Racing V12 w/ Anti-Lag Turbos, Full Aero, Race Slicks, Dry Only. X Road Meta."
+        }
+      ]
+    },
+    {
+      "event": "EventLab (Cross Country) - Caldera Mountain Climb",
+      "tunes": [
+        {
+          "event": "EventLab (Cross Country) - Caldera Mountain Climb",
+          "class": "A 800 (Unlimited Offroad)",
+          "car": "Extreme E No.99 Chip Ganassi Racing GMC Hummer EV",
           "creator": "LogikJ",
-          "raceType": "Dirt",
-          "tuneName": "Dirt/PGG Purist",
-          "shareCode": "183 489 377",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires, Purist. Manual & Clutch Recommended."
-        }
-      ]
-    },
-    {
-      "event": "Danger Sign (Road) - Launch Control (320m/1050ft)",
-      "tunes": [
-        {
-          "event": "Danger Sign (Road) - Launch Control (320m/1050ft)",
-          "class": "A 800 (M-B A45 AMG)",
-          "car": "Mercedes-Benz A 45 AMG",
-          "creator": "Saeenu",
-          "raceType": "Road",
-          "tuneName": "Danger Sign PR",
-          "shareCode": "110 611 811",
-          "notes": "AWD, Stock Engine, No Aero, Drag Tires, Dry Only. For PR Stunts only, not racing! 438.58m Launch Control Danger Sign."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from west, 4km/2.5mi runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from west, 4km/2.5mi runup)",
-          "class": "A 800 (M-B A45 AMG)",
-          "car": "Mercedes-Benz A 45 AMG",
-          "creator": "Fenrir3268",
-          "raceType": "Dirt",
-          "tuneName": "Purist A Dirt",
-          "shareCode": "717 845 303",
-          "notes": "AWD, Stock Engine, No Aero, Offroad Race Tires, Purist. 325.17m Launch Control Danger Sign."
-        }
-      ]
-    },
-    {
-      "event": "Speed Zone (Road) - Switchbacks (95mph/153kmh)",
-      "tunes": [
-        {
-          "event": "Speed Zone (Road) - Switchbacks (95mph/153kmh)",
-          "class": "A 800 (Audi TTS '15)",
-          "car": "Audi TTS Coupé '15",
-          "creator": "LogikJ",
-          "raceType": "Road",
-          "tuneName": "Road Purist Upd",
-          "shareCode": "510 613 299",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires, Purist. 103.93mph Switchbacks Speed Zone."
-        }
-      ]
-    },
-    {
-      "event": "Drift Zone (Road) - Las Curvas (90,000 pts)",
-      "tunes": [
-        {
-          "event": "Drift Zone (Road) - Las Curvas (90,000 pts)",
-          "class": "S1 900 (#98 BMW 325i)",
-          "car": "Formula Drift #98 BMW 325i",
-          "creator": "OxGRIDRUNR",
-          "raceType": "Drift (Road)",
-          "tuneName": "AWD Drift",
-          "shareCode": "289 569 463",
-          "notes": "AWD, 7.7L TVR V12 w/ Anti-Lag Turbos, Stock Aero, Drag Tires, Dry Only. 123.4k pts Las Curvas Drift Zone."
-        }
-      ]
-    },
-    {
-      "event": "Street - Meet and Street",
-      "tunes": [
-        {
-          "event": "Street - Meet and Street",
-          "class": "A 800 (Audi VS. Porsche)",
-          "car": "Porsche 906 Carrera 6",
-          "creator": "Saeenu",
-          "raceType": "Road",
-          "tuneName": "56.9 Estadio A",
-          "shareCode": "951 767 676",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires. Very Strong/Near Meta AWD, 00:56.918 Estadio Circuit."
-        }
-      ]
-    },
-    {
-      "event": "Cross Country - Pick Me Up",
-      "tunes": [
-        {
-          "event": "Cross Country - Pick Me Up",
-          "class": "B 700 (German Pickups & 4x4's)",
-          "car": "Mercedes-Benz X-Class (M/C)",
-          "creator": "TheDannny",
           "raceType": "Cross Country",
-          "tuneName": "Dirt 1.1 M/C",
-          "shareCode": "146 268 736",
-          "notes": "AWD, 6.2L Mercedes AMG V8 w/ Anti-Lag Turbos, Pickup Designs Widebody Kit + Sport Rear Wing, Rear Tire Profile Size Upgrade, Offroad Race Tires. Manual & Clutch Recommended. Strong CC/Dirt."
+          "tuneName": "Dirt/CC Updated",
+          "shareCode": "679 824 035",
+          "notes": "AWD, Offroad Race Tires, Purist. Strong Dirt/CC (Grip), 01:10.491 River Scramble."
         }
       ]
     },
     {
-      "event": "Weekly Forzathon - The AMG Treatment",
+      "event": "Danger Sign (Road) - Los Jardines (110m/361ft)",
       "tunes": [
         {
-          "event": "Weekly Forzathon - The AMG Treatment",
-          "class": "Mercedes-Benz SLK 55 AMG",
-          "car": "Mercedes-Benz SLK 55 AMG (A 800, Shift @ 7K RPM)",
-          "creator": "TheDannny",
+          "event": "Danger Sign (Road) - Los Jardines (110m/361ft)",
+          "class": "D 500 (Mercedes-Benz Unimog)",
+          "car": "Mercedes-Benz Unimog U5023 (Shift @ 3.5K RPM)",
+          "creator": "LogikJ",
           "raceType": "Road",
-          "tuneName": "Road ~7K Shift",
-          "shareCode": "182 518 448",
-          "notes": "AWD, Stock Engine, Full Aero. Shift @ 7K RPM."
+          "tuneName": "Seasonal",
+          "shareCode": "132 148 422",
+          "notes": "AWD, 6.7L Ford Diesel V8T, No Tent, Stock Rims, Offroad Tires, Rear Tire Profile Size Upgrade. Shift @ 3.5K RPM. 191.5m Los Jardines Danger Sign."
         }
       ]
     },
     {
-      "event": "Complete Trebol Speed Zone",
+      "event": "Speed Trap (Road) - Autopista (206mph/332kmh)",
       "tunes": [
         {
-          "event": "Complete Trebol Speed Zone",
+          "event": "Speed Trap (Road) - Autopista (206mph/332kmh)",
+          "class": "A 800 (Country: Germany)",
+          "car": "Audi RS E-Tron GT",
+          "creator": "KapienPL",
+          "raceType": "Dirt",
+          "tuneName": "Vacum Cleaner",
+          "shareCode": "427 115 871",
+          "notes": "AWD, No Aero, Offroad Race Tires, Purist. Strong Dirt, low ~01:05.xxx Teotihuacan Scramble."
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Approach from east, 7.1km/4.4mi runup)",
+      "tunes": [
+        {
+          "event": "(Tip: Approach from east, 7.1km/4.4mi runup)",
+          "class": "A 800 (Country: Germany)",
+          "car": "Mercedes-AMG GT 4-Door Coupé",
+          "creator": "XSW 4002",
+          "raceType": "Road",
+          "tuneName": "Purist",
+          "shareCode": "815 158 393",
+          "notes": "AWD, Stock Engine, No Aero, Rally Tires, Purist"
+        }
+      ]
+    },
+    {
+      "event": "(Video guide if you need help: https://youtu.be/s7DdCHVY9V4?t=115 )",
+      "tunes": [
+        {
+          "event": "(Video guide if you need help: https://youtu.be/s7DdCHVY9V4?t=115 )",
+          "class": "A 800 (Country: Germany)",
+          "car": "BMW M5 '88 (RWD, M/C)",
+          "creator": "VNX Letz",
+          "raceType": "Road",
+          "tuneName": "Bub Mich Weiter",
+          "shareCode": "122 618 355",
+          "notes": "RWD, 3.0L Toyota 2JZ i6T w/ Anti-Lag Turbo, No Aero, Drift Tires. Manual & Clutch Recommended. Strong RWD Powerbuild, 00:56.145 Estadio Circuit. 261.15mph Autopista Speed Trap."
+        }
+      ]
+    },
+    {
+      "event": "Trailblazer (Cross Country) - Barranco (35s)",
+      "tunes": [
+        {
+          "event": "Trailblazer (Cross Country) - Barranco (35s)",
+          "class": "B 700 (Porsche Macan Turbo '19)",
+          "car": "Porsche Macan Turbo",
+          "creator": "LogikJ",
+          "raceType": "Cross Country",
+          "tuneName": "Dirt/CC Update",
+          "shareCode": "526 570 986",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rear Tire Profile Size Upgrade, Offroad Race Tires, Purist. 36.6s Barranco Trailblazer."
+        }
+      ]
+    },
+    {
+      "event": "Street - Street Contest",
+      "tunes": [
+        {
+          "event": "Street - Street Contest",
+          "class": "B 700 (BMW VS. Volkswagen)",
+          "car": "Volkswagen Golf R '14 (M/C)",
+          "creator": "LogikJ",
+          "raceType": "Road",
+          "tuneName": "Road Purist",
+          "shareCode": "174 554 080",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Purist. Manual & Clutch Recommended. Strong AWD, low ~01:10.xxx Horizon Mexico Circuit."
+        }
+      ]
+    },
+    {
+      "event": "Dirt - German Quality",
+      "tunes": [
+        {
+          "event": "Dirt - German Quality",
+          "class": "A 800 (German AWD)",
+          "car": "Porsche 550A Spyder (Shift @ 5.3K RPM)",
+          "creator": "VNX Letz",
+          "raceType": "Dirt",
+          "tuneName": "A Dirt 5.3K RPM",
+          "shareCode": "341 213 303",
+          "notes": "AWD, 2.0L Subaru Turbo Rally F4, Full Aero, Offroad Race Tires. Shift @ 5.3K RPM. Dirt Meta, low ~01:04.xxx Teotihuacan Scramble."
+        }
+      ]
+    },
+    {
+      "event": "Cross Country - Zero to Hero",
+      "tunes": [
+        {
+          "event": "Cross Country - Zero to Hero",
+          "class": "B 700 (Sports Utility Heroes)",
+          "car": "Porsche Macan Turbo",
+          "creator": "LogikJ",
+          "raceType": "Cross Country",
+          "tuneName": "Dirt/CC Update",
+          "shareCode": "526 570 986",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rear Tire Profile Size Upgrade, Offroad Race Tires, Purist"
+        }
+      ]
+    },
+    {
+      "event": "Weekly Forzathon - Vorsprung Durch Technik",
+      "tunes": [
+        {
+          "event": "Weekly Forzathon - Vorsprung Durch Technik",
+          "class": "Audi S1 '15",
+          "car": "Audi S1 '15 (A 800, M/C, Shift @ 7.3K RPM)",
+          "creator": "AMS Carver",
+          "raceType": "Dirt",
+          "tuneName": ":)",
+          "shareCode": "360 242 424",
+          "notes": "AWD, 1.6L Ford Turbo Rally i4T, No Aero. Manual & Clutch Recommended. Shift @ 7.3K RPM. Very Strong Dirt, 01:04.652 Teotihuacan Scramble."
+        }
+      ]
+    },
+    {
+      "event": "Earn 10 Speed Skills",
+      "tunes": [
+        {
+          "event": "Earn 10 Speed Skills",
           "class": "Porsche Taycan Turbo S",
           "car": "Porsche Taycan Turbo S (S1 900)",
           "creator": "trviis",
@@ -163,21 +208,6 @@
           "tuneName": "HW Top Speed",
           "shareCode": "162 962 341",
           "notes": "AWD, No Aero, Race Slicks, Dry Only, Purist. For top speed only, not racing!"
-        }
-      ]
-    },
-    {
-      "event": "Earn 5 Stars at Danger Signs",
-      "tunes": [
-        {
-          "event": "Earn 5 Stars at Danger Signs",
-          "class": "Porsche 914/6",
-          "car": "Porsche 914/6 (A 800, Shift @ 5.3K RPM)",
-          "creator": "PTW Subzero",
-          "raceType": "Dirt",
-          "tuneName": "Full Aero V3",
-          "shareCode": "196 988 021",
-          "notes": "AWD, 2.0L Subaru Turbo Rally F4, Full Aero, Offroad Race Tires. Shift @ 5.3K RPM. Very Strong/Near Meta Dirt, 01:09.975 River Scramble."
         }
       ]
     }
