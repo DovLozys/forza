@@ -1,72 +1,12 @@
 {
-  "lastUpdated": "2025-10-07T06:14:28.592Z",
+  "lastUpdated": "2025-10-14T06:15:33.004Z",
   "races": [
     {
-      "event": "Trial (Dirt) - Stock Showdown: Audi Quattro",
+      "event": "The Trial (Road) - Auto Born",
       "tunes": [
         {
-          "event": "Trial (Dirt) - Stock Showdown: Audi Quattro",
-          "class": "B 638 (Audi Sport Quattro)",
-          "car": "Audi Sport Quattro '83 (M/C)",
-          "creator": "Saeenu",
-          "raceType": "Dirt",
-          "tuneName": "Seasonal TrialV2",
-          "shareCode": "162 779 747",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Purist, No Upgrades Build. Manual & Clutch Recommended."
-        }
-      ]
-    },
-    {
-      "event": "EventLab (Dirt) - VW Rally",
-      "tunes": [
-        {
-          "event": "EventLab (Dirt) - VW Rally",
-          "class": "A 800 (Modern Rally & Rally Monsters)",
-          "car": "Mitsubishi Lancer Evolution IX MR (M/C)",
-          "creator": "KapienPL",
-          "raceType": "Dirt",
-          "tuneName": "Dirt Puriste",
-          "shareCode": "218 396 495",
-          "notes": "AWD, Stock Engine w/ Anti-Lag Turbo, No Aero, Stock Rims, Offroad Race Tires, Purist. Manual & Clutch Recommended. Very Strong Dirt, 01:04.587 Teotihuacan Scramble."
-        }
-      ]
-    },
-    {
-      "event": "Speed Trap (Road) - Océano Azul (205mph/330kmh)",
-      "tunes": [
-        {
-          "event": "Speed Trap (Road) - Océano Azul (205mph/330kmh)",
-          "class": "S1 900 (Audi R8 V10 Plus '16)",
-          "car": "Audi R8 V10 Plus '16",
-          "creator": "Unimog Driving",
-          "raceType": "Dirt",
-          "tuneName": "Dirt Purist",
-          "shareCode": "889 988 345",
-          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Stock Rims, No Aero, Offroad Race Tires, Purist. 235.19mph Océano Azul Speed Trap."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from east, 4.6km/2.9mi runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from east, 4.6km/2.9mi runup)",
-          "class": "S1 900 (Audi R8 V10 Plus '16)",
-          "car": "Audi R8 V10 Plus '16",
-          "creator": "K1Z Bard",
-          "raceType": "Road",
-          "tuneName": "Purist",
-          "shareCode": "118 140 819",
-          "notes": "AWD, Stock Engine, Stock Rims, No Aero, Purist. 00:56.469 Horizon Mexico Circuit,"
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/Ro30KzlmOZM )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/Ro30KzlmOZM )",
-          "class": "S1 900 (Audi R8 V10 Plus '16)",
+          "event": "The Trial (Road) - Auto Born",
+          "class": "S1 900 (German Modern Super Cars)",
           "car": "Audi R8 V10 Plus '16",
           "creator": "TheDannny",
           "raceType": "Road",
@@ -77,167 +17,167 @@
       ]
     },
     {
-      "event": "Drift Zone (Dirt) - Otro Mundo (115,000pts)",
+      "event": "EventLab (Cross Country) - Forza: Warthog Rally",
       "tunes": [
         {
-          "event": "Drift Zone (Dirt) - Otro Mundo (115,000pts)",
-          "class": "B 700 (BMW)",
-          "car": "BMW Isetta 300 Export",
+          "event": "EventLab (Cross Country) - Forza: Warthog Rally",
+          "class": "A 800 (M12S Warthog CST)",
+          "car": "AMG Transport Dynamics M12S Warthog CST",
+          "creator": "Fenrir3268",
+          "raceType": "Cross Country",
+          "tuneName": "HaloFansRejoice",
+          "shareCode": "157 448 409",
+          "notes": "AWD, 7.2L RJ Anderson Racing V8 w/ Anti-Lag Turbos, Offroad Race Tires. CC/Dirt Handling (low top speed)."
+        }
+      ]
+    },
+    {
+      "event": "Speed Zone (Dirt) - Rocky Hills (65mph/105kmh)",
+      "tunes": [
+        {
+          "event": "Speed Zone (Dirt) - Rocky Hills (65mph/105kmh)",
+          "class": "A 800 (Audi TT)",
+          "car": "Audi TT RS Coupé '10 (M/C)",
+          "creator": "LogikJ",
+          "raceType": "Dirt",
+          "tuneName": "Dirt Purist",
+          "shareCode": "631 855 154",
+          "notes": "AWD, Stock Engine, No Aero, Offroad Race Tires, Purist. Manual & Clutch Recommended. Strong Dirt, 01:05.275 Teotihuacan Scramble & 01:09.881 River Scramble. 95.59mph Rocky Hills Speed Zone & 32.9s Canyon Run Trailblazer."
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Approach from south-west, 646m/706yd runup)",
+      "tunes": [
+        {
+          "event": "(Tip: Approach from south-west, 646m/706yd runup)",
+          "class": "A 800 (Audi TT)",
+          "car": "Audi TT RS '18",
+          "creator": "LogikJ",
+          "raceType": "Dirt",
+          "tuneName": "A Dirt Purist",
+          "shareCode": "803 630 963",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires, Purist. 93.63mph Rocky Hills Speed Zone & 33.2s Canyon Run Trailblazer."
+        }
+      ]
+    },
+    {
+      "event": "(Video guide if you need help: https://youtu.be/Q6bAhq_xi-U )",
+      "tunes": [
+        {
+          "event": "(Video guide if you need help: https://youtu.be/Q6bAhq_xi-U )",
+          "class": "A 800 (Audi TT)",
+          "car": "Audi TT RS Coupé '20",
+          "creator": "LogikJ",
+          "raceType": "Dirt",
+          "tuneName": "A Dirt Purist",
+          "shareCode": "124 285 619",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires, Purist"
+        }
+      ]
+    },
+    {
+      "event": "Drift Zone (Dirt) - Otro Mundo (80,000 pts)",
+      "tunes": [
+        {
+          "event": "Drift Zone (Dirt) - Otro Mundo (80,000 pts)",
+          "class": "A 800 (Audi TT)",
+          "car": "Audi TT RS Coupé '10",
           "creator": "OxGRIDRUNR",
           "raceType": "Drift (Dirt)",
-          "tuneName": "Tight Zones",
-          "shareCode": "234 426 382",
-          "notes": "AWD, 1.6L Ford Turbo Rally i4 w/ Anti-Lag Turbo, No Aero, Whitewall Tires. Dirt Drift Zone Meta. 161.7k pts Otro Mundo Drift Zone."
+          "tuneName": "AWD Dirt Driftv2",
+          "shareCode": "107 795 024",
+          "notes": "AWD, Stock Engine w/ Anti-Lag Turbo, No Aero, Snow Tires, Purist. 154.5k pts Otro Mundo Drift Zone."
         }
       ]
     },
     {
-      "event": "(Tip: Approach from north-west)",
+      "event": "Road - Cutting Corners",
       "tunes": [
         {
-          "event": "(Tip: Approach from north-west)",
-          "class": "B 700 (BMW)",
-          "car": "BMW M5 '88",
-          "creator": "OxGRIDRUNR",
-          "raceType": "Drift (Dirt)",
-          "tuneName": "AWD Dirt Drift",
-          "shareCode": "104 224 192",
-          "notes": "AWD, 3.2L BMW i6, No Aero"
-        }
-      ]
-    },
-    {
-      "event": "Trailblazer (Dirt) - Sand and Deliver (4s)",
-      "tunes": [
-        {
-          "event": "Trailblazer (Dirt) - Sand and Deliver (4s)",
-          "class": "D 500 (Volkswagen Class 5 Bug)",
-          "car": "Volkswagen Class 5/1600 Baja Bug",
-          "creator": "LogikJ",
-          "raceType": "Dirt",
-          "tuneName": "AWD Dirt Season",
-          "shareCode": "108 562 547",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Offroad Tires"
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from north, 1.1km/0.7mi runup. Drive through the flatter terrain)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from north, 1.1km/0.7mi runup. Drive through the flatter terrain)",
-          "class": "D 500 (Volkswagen Class 5 Bug)",
-          "car": "Volkswagen Class 5/1600 Baja Bug (RWD, M/C)",
-          "creator": "LogikJ",
-          "raceType": "Dirt",
-          "tuneName": "RWD Dirt Season",
-          "shareCode": "130 099 439",
-          "notes": "RWD, Stock Engine, No Aero, Offroad Tires, Stock Rims, Purist. Manual & Clutch Recommended. 19.3s Sand and Deliver Trailblazer."
-        }
-      ]
-    },
-    {
-      "event": "Road - Power Couple",
-      "tunes": [
-        {
-          "event": "Road - Power Couple",
-          "class": "A 800 (Mercedes-Benz VS. AMG)",
-          "car": "Mercedes-Benz X-Class (M/C)",
-          "creator": "coach lbn",
-          "raceType": "Road",
-          "tuneName": "X63 AMG",
-          "shareCode": "125 840 231",
-          "notes": "AWD, 7.2L RJ Anderson Racing V8, Pickup Designs Widebody Kit, Sport Wing, Rear Tire Profile Size Upgrade, Rally Tires. Manual & Clutch Recommended. Strong AWD, 01:02.979 Horizon Mexico Circuit."
-        }
-      ]
-    },
-    {
-      "event": "Dirt - Hot on the Trail",
-      "tunes": [
-        {
-          "event": "Dirt - Hot on the Trail",
-          "class": "B 700 (German Rally Monsters)",
-          "car": "Opel Manta 400",
+          "event": "Road - Cutting Corners",
+          "class": "B 700 (Japanese Modern Sports Cars)",
+          "car": "Honda S2000 CR '09",
           "creator": "Saeenu",
           "raceType": "Road",
-          "tuneName": "Road SpeedZoneV2",
-          "shareCode": "171 655 586",
-          "notes": "AWD, Stock Engine, Full Aero, Rally Tires. Tune originally created by LogikJ."
+          "tuneName": "1:03.2 Estadio B",
+          "shareCode": "902 767 095",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims. Very Strong/Near Meta AWD, 01:03.227 Estadio Circuit."
         }
       ]
     },
     {
-      "event": "Street - Heat Wave",
+      "event": "Street - Pisa Cake",
       "tunes": [
         {
-          "event": "Street - Heat Wave",
-          "class": "B 700 (German Hot Hatch)",
-          "car": "Volkswagen Golf R32 (M/C)",
+          "event": "Street - Pisa Cake",
+          "class": "S1 900 (Italian Modern Supercars)",
+          "car": "Lamborghini Huracán LP 610-4",
           "creator": "LogikJ",
           "raceType": "Road",
-          "tuneName": "Road Purist Easy",
-          "shareCode": "685 035 280",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Purist. Manual & Clutch Recommended. Very Strong AWD, high 01:09.xxx Horizon Mexico Circuit."
+          "tuneName": "S1 Road AWD WB",
+          "shareCode": "301 757 228",
+          "notes": "AWD, 4.7L Ferrari Racing V12, LBWK Widebody Kit, Full Aero, Rally Tires. Very Strong AWD."
         }
       ]
     },
     {
-      "event": "Weekly Forzathon - The People's Car",
+      "event": "Weekly Forzathon - Sports Car Supreme",
       "tunes": [
         {
-          "event": "Weekly Forzathon - The People's Car",
-          "class": "Volkswagen Golf R32",
-          "car": "Volkswagen Golf R32 (A 800, M/C)",
+          "event": "Weekly Forzathon - Sports Car Supreme",
+          "class": "A 800 (Mazda MX-5 Miata)",
+          "car": "Mazda MX-5 Miata '94",
           "creator": "Saeenu",
           "raceType": "Road",
-          "tuneName": "JakeGTR9 Purist",
-          "shareCode": "713 339 153",
-          "notes": "AWD, Stock Engine, Wings West Street Rear Wing, Stock Rims, Rally Tires, Purist. Strong AWD. Tune originally created by JakeGTR9."
+          "tuneName": "RB Road Grip V2",
+          "shareCode": "692 653 196",
+          "notes": "AWD, 3.2L BMW i6, Rocket Bunny Widebody Kit, No Aero, Rally Tires. Strong AWD Grip, 00:57.446 Estadio Circuit."
         }
       ]
     },
     {
-      "event": "Earn 20 Air Skills",
+      "event": "Earn an Ultimate Air Skill",
       "tunes": [
         {
-          "event": "Earn 20 Air Skills",
-          "class": "Volkswagen Buggy",
-          "car": "Volkswagen Class 5/1600 Baja Bug (B 700, Shift @ 6.5K RPM)",
-          "creator": "Mustuff124",
+          "event": "Earn an Ultimate Air Skill",
+          "class": "BMW",
+          "car": "BMW M3 '97 (A 800)",
+          "creator": "LogikJ",
           "raceType": "Dirt",
-          "tuneName": "B Offroad",
-          "shareCode": "762 794 851",
-          "notes": "AWD, 2.0L Subaru F4T, No Aero, Stock Rims, Offroad Tires. Shift @ 6.5K RPM."
+          "tuneName": "Dirt AWD No Aero",
+          "shareCode": "134 590 834",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires. Good Dirt, 01:05.867 Teotihuacan Scramble & 01:11.161 River Scramble."
         }
       ]
     },
     {
-      "event": "Win a Drag Race",
+      "event": "Earn 2 stars at Trailblazers",
       "tunes": [
         {
-          "event": "Win a Drag Race",
-          "class": "German Super Saloons",
-          "car": "BMW 1 Series M Coupe (S1 894, LC)",
-          "creator": "OxGRIDRUNR",
-          "raceType": "Drag",
-          "tuneName": "AWD Drag",
-          "shareCode": "389 781 273",
-          "notes": "AWD, 3.0L Toyota Racing 2JZ i6T w/ Anti-Lag Turbo, No Aero, Drag Tires, Dry Only. Launch Control assist recommended. Pro drivatar difficulty or lower required to win!"
+          "event": "Earn 2 stars at Trailblazers",
+          "class": "Horizon Special: EV",
+          "car": "Rimac Concept Two (S2 973)",
+          "creator": "KapienPL",
+          "raceType": "Dirt",
+          "tuneName": "Dirt/CC EV",
+          "shareCode": "176 887 891",
+          "notes": "AWD, Full Aero, Offroad Race Tires. Fastest Low-End Acceleration."
         }
       ]
     },
     {
-      "event": "(Tip: Use Launch Control assist, turn down Drivatar Difficulty to Pro or lower!)",
+      "event": "(Tip: Use Malpais Trailblazer near Horizon Festival Mexico for easy stars)",
       "tunes": [
         {
-          "event": "(Tip: Use Launch Control assist, turn down Drivatar Difficulty to Pro or lower!)",
-          "class": "German Super Saloons",
-          "car": "BMW M4 Coupé '14 (S1 894, RWD, M/C, LC, Assisted Steering)",
-          "creator": "Aiolos5656",
-          "raceType": "Drag",
-          "tuneName": "Skill Check",
-          "shareCode": "149 385 714",
-          "notes": "RWD, 3.0L Toyota Racing 2JZ i6T w/ Anti-Lag Turbo, Street Aero, Drag Tires, Dry Only. Manual & Clutch, Assisted Steering & Launch Control assist required! Expert drivatar difficulty or lower required to win!"
+          "event": "(Tip: Use Malpais Trailblazer near Horizon Festival Mexico for easy stars)",
+          "class": "Horizon Special: EV",
+          "car": "Porsche Taycan Turbo S (A 800)",
+          "creator": "NoObStEr9919",
+          "raceType": "Dirt",
+          "tuneName": "Save Yourself",
+          "shareCode": "173 851 773",
+          "notes": "AWD, Full Aero, Offroad Race Tires"
         }
       ]
     }
