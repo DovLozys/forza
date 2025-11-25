@@ -1,191 +1,71 @@
 {
-  "lastUpdated": "2025-11-18T06:15:39.072Z",
+  "lastUpdated": "2025-11-25T06:16:24.135Z",
   "races": [
     {
-      "event": "The Trial (Road) - City Rush",
+      "event": "The Trial (Road) - Picking Sides",
       "tunes": [
         {
-          "event": "The Trial (Road) - City Rush",
-          "class": "B 700 (Daily Drivers)",
-          "car": "Subaru BRZ '13",
-          "creator": "Saeenu",
+          "event": "The Trial (Road) - Picking Sides",
+          "class": "A 800 (M Sport VS. AMG)",
+          "car": "BMW M4 Competition Coupé '21",
+          "creator": "LogikJ",
           "raceType": "Road",
-          "tuneName": "1:03.3 Estadio B",
-          "shareCode": "142 495 642",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims. Very Strong/Near Meta AWD, 01:03.397 Estadio Circuit."
+          "tuneName": "Road AWD Upd",
+          "shareCode": "159 089 868",
+          "notes": "AWD, 4.0L BMW V8, No Aero, Stock Rims, Rally Tires. Good AWD."
         }
       ]
     },
     {
-      "event": "EventLab (Road) - Hill Valley Rally",
+      "event": "EventLab (Dirt) - Snowy Mountain Pass",
       "tunes": [
         {
-          "event": "EventLab (Road) - Hill Valley Rally",
-          "class": "B 700 (Classic Rally)",
-          "car": "Ford Escort RS1600",
-          "creator": "Saeenu",
-          "raceType": "Road",
-          "tuneName": "Seasonal Road PR",
-          "shareCode": "523 992 067",
-          "notes": "AWD, 3.2L BMW i6, Full Aero + Rally Foglights, Stock Rims, Whitewall Tires. Strong AWD, 01:04.366 Estadio Circuit."
+          "event": "EventLab (Dirt) - Snowy Mountain Pass",
+          "class": "A 800 (Rally Monsters)",
+          "car": "Opel Manta 400",
+          "creator": "LogikJ",
+          "raceType": "Dirt",
+          "tuneName": "A Dirt No Aero",
+          "shareCode": "104 689 113",
+          "notes": "AWD, 3.2L BMW i6, No Aero, Stock Rims, Offroad Race Tires. Strong Dirt, 01:05.743 Teotihuacan Scramble."
         }
       ]
     },
     {
-      "event": "Speed Trap (Road) - Bulevar (160mph/257kmh)",
+      "event": "EventLab (Road) - Neon Nights Devil's Rush",
       "tunes": [
         {
-          "event": "Speed Trap (Road) - Bulevar (160mph/257kmh)",
-          "class": "A 800 (Modern Muscle)",
-          "car": "Cadillac ATS-V",
-          "creator": "Saeenu",
+          "event": "EventLab (Road) - Neon Nights Devil's Rush",
+          "class": "S1 900 (Super GT)",
+          "car": "Ferrari F12tdf",
+          "creator": "LogikJ",
           "raceType": "Road",
-          "tuneName": "A Road No AeroV3",
-          "shareCode": "110 767 906",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires. Strong AWD, 00:57.473 Estadio Circuit."
+          "tuneName": "S1 Road AWD",
+          "shareCode": "673 060 120",
+          "notes": "AWD, Stock Engine, No Aero, Rally Tires. Good AWD."
         }
       ]
     },
     {
-      "event": "(Tip: Approach from south, 2.6km/1.6mi runup)",
+      "event": "Playground Games (Aeródromo) - Surviving the Day",
       "tunes": [
         {
-          "event": "(Tip: Approach from south, 2.6km/1.6mi runup)",
-          "class": "A 800 (Modern Muscle)",
-          "car": "Ford Mustang GT '24",
-          "creator": "Saeenu",
-          "raceType": "Road",
-          "tuneName": "A Road NoAeroAWD",
-          "shareCode": "415 237 274",
-          "notes": "AWD, Stock Engine, No Aero, Rally Tires. Strong AWD, 00:57.685 Estadio Circuit."
+          "event": "Playground Games (Aeródromo) - Surviving the Day",
+          "class": "A 800 (High Performance Dailies AWD)",
+          "car": "Audi S1 (M/C, Shift @ 7.3K RPM)",
+          "creator": "AMS Carver",
+          "raceType": "Playground Games",
+          "tuneName": ":)",
+          "shareCode": "360 242 424",
+          "notes": "AWD, 1.6L Ford Turbo Rally i4T, No Aero. Manual & Clutch Recommended. Shift @ 7.3K RPM. Very Strong Dirt, 01:04.652 Teotihuacan Scramble."
         }
       ]
     },
     {
-      "event": "(Video guide if you need help: https://youtu.be/NCG6gjjojjc )",
+      "event": "Danger Sign (Road) - Colina (260m/854ft)",
       "tunes": [
         {
-          "event": "(Video guide if you need help: https://youtu.be/NCG6gjjojjc )",
-          "class": "A 800 (Modern Muscle)",
-          "car": "Dodge Challenger SRT Super Stock '22",
-          "creator": "TheDannny",
-          "raceType": "Road",
-          "tuneName": "LS No Aero V1.1",
-          "shareCode": "282 863 348",
-          "notes": "AWD, 6.2L Chevrolet LS3 V8, No Aero, Rally Tires"
-        }
-      ]
-    },
-    {
-      "event": "Speed Trap (Road) - Northern Passage (170mph/274kmh)",
-      "tunes": [
-        {
-          "event": "Speed Trap (Road) - Northern Passage (170mph/274kmh)",
-          "class": "A 800 (Modern Muscle)",
-          "car": "Cadillac CT4-V Blackwing (RWD, M/C)",
-          "creator": "LetzeLU",
-          "raceType": "Road",
-          "tuneName": "Purist Update",
-          "shareCode": "638 008 656",
-          "notes": "RWD, Stock Engine, No Aero, Stock Rims, Rally Tires, Purist. Manual & Clutch Recommended. Strong RWD, 00:57.204 Estadio Circuit."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from west, 2.1km/1.2mi runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from west, 2.1km/1.2mi runup)",
-          "class": "A 800 (Modern Muscle)",
-          "car": "Ford Mustang Dark Horse (RWD, M/C)",
-          "creator": "K1Z Bala",
-          "raceType": "Road",
-          "tuneName": "Purist",
-          "shareCode": "605 169 078",
-          "notes": "RWD, Stock Engine, No Aero, Stock Rims, Rally Tires, Purist. Manual & Clutch Recommended. Strong RWD Grip, low ~01:03.xxx Horizon Mexico Circuit. Do not shift into 6th gear!"
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/NCG6gjjojjc?t=88 )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/NCG6gjjojjc?t=88 )",
-          "class": "A 800 (Modern Muscle)",
-          "car": "Ford Mustang GT '18 (RWD, M/C)",
-          "creator": "vBxrdy",
-          "raceType": "Road",
-          "tuneName": "Forza",
-          "shareCode": "346 931 509",
-          "notes": "RWD, Stock Engine, No Aero, Stock Rims, Rally Tires, Purist. Manual & Clutch Recommended. Strong RWD, mid ~00:57.xxx Estadio Circuit."
-        }
-      ]
-    },
-    {
-      "event": "Speed Zone (Road) - Ringroad (92mph/148kmh)",
-      "tunes": [
-        {
-          "event": "Speed Zone (Road) - Ringroad (92mph/148kmh)",
-          "class": "A 800 (Modern Muscle)",
-          "car": "Ford Shelby GT500 '13 (RWD, M/C)",
-          "creator": "LetzeLU",
-          "raceType": "Road",
-          "tuneName": "Shelby 1000",
-          "shareCode": "132 670 103",
-          "notes": "RWD, Stock Engine, No Aero, Drift Tires, Purist. Manual & Clutch Recommended. Strong RWD Semi-Powerbuild, 00:56.369 Estadio Circuit."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from south, 1.2km/0.7mi runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from south, 1.2km/0.7mi runup)",
-          "class": "A 800 (Modern Muscle)",
-          "car": "Cadillac CT5-V Blackwing (RWD, M/C)",
-          "creator": "K1Z Bard",
-          "raceType": "Road",
-          "tuneName": "Purist 2025",
-          "shareCode": "751 466 768",
-          "notes": "RWD, Stock Engine, No Aero, Stock Rims, Drift Tires, Purist. Manual & Clutch Recommended. Mid ~01:03.xxx Horizon Mexico Circuit. 180.44mph Bulevar Speed Trap, 186.06mph Northern Passage Speed Trap & 106.95mph Ringroad Speed Zone."
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/NCG6gjjojjc?t=159 )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/NCG6gjjojjc?t=159 )",
-          "class": "A 800 (Modern Muscle)",
-          "car": "Dodge Challenger SRT Demon '18 (RWD, M/C)",
-          "creator": "LetzeLU",
-          "raceType": "Road",
-          "tuneName": "Actually Good",
-          "shareCode": "833 569 598",
-          "notes": "RWD, 7.7L TVR V12, No Aero, Drift Tires. Manual & Clutch Recommended. Good RWD Powerbuild, 00:56.819 Estadio Circuit."
-        }
-      ]
-    },
-    {
-      "event": "Street - B Fast B Furious",
-      "tunes": [
-        {
-          "event": "Street - B Fast B Furious",
-          "class": "B 700 (Modern Sports Cars)",
-          "car": "Honda S2000 CR '09",
-          "creator": "Saeenu",
-          "raceType": "Road",
-          "tuneName": "1:03.2 Estadio B",
-          "shareCode": "902 767 095",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims. Very Strong/Near Meta AWD, 01:03.227 Estadio Circuit."
-        }
-      ]
-    },
-    {
-      "event": "Road - Saloon Go Vroom",
-      "tunes": [
-        {
-          "event": "Road - Saloon Go Vroom",
+          "event": "Danger Sign (Road) - Colina (260m/854ft)",
           "class": "A 800 (Super Saloons)",
           "car": "Audi RS 4 '06 (M/C)",
           "creator": "K1Z Bala",
@@ -197,32 +77,92 @@
       ]
     },
     {
-      "event": "Weekly Forzathon - Holden On",
+      "event": "(Tip: Approach from west, 2.8km/1.7mi runup)",
       "tunes": [
         {
-          "event": "Weekly Forzathon - Holden On",
-          "class": "HSV GEN-F GTS",
-          "car": "HSV GEN-F GTS (A 800)",
-          "creator": "LogikJ",
+          "event": "(Tip: Approach from west, 2.8km/1.7mi runup)",
+          "class": "A 800 (Super Saloons)",
+          "car": "Porsche Taycan Cross Turismo Turbo S",
+          "creator": "K1Z Bard",
           "raceType": "Road",
-          "tuneName": "Road AWD No Aero",
-          "shareCode": "155 802 347",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires"
+          "tuneName": "A Road",
+          "shareCode": "711 447 203",
+          "notes": "AWD, Porsche 670HP Race Motor, No Aero, Stock Rims, Rally Tires. Good AWD, 01:03.497 Horizon Mexico Circuit."
         }
       ]
     },
     {
-      "event": "Earn a Great Drift Skill",
+      "event": "Speed Trap (Road) - Escarpment (130mph/209kmh)",
       "tunes": [
         {
-          "event": "Earn a Great Drift Skill",
-          "class": "Super Saloons",
-          "car": "Alfa Romeo Giulia Quadrifoglio (S1 893)",
+          "event": "Speed Trap (Road) - Escarpment (130mph/209kmh)",
+          "class": "A 800 (Super Saloons)",
+          "car": "Alfa Romeo Giulia Quadrifoglio (RWD, M/C)",
+          "creator": "Move33R",
+          "raceType": "Road",
+          "tuneName": "Purist",
+          "shareCode": "552 344 649",
+          "notes": "RWD, Stock Engine, No Aero, Stock Rims, Rally Tires, Purist. Manual & Clutch Recommended. Strong RWD, 01:03.420 Tierra Prospera Circuit."
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Approach from west, 1.1km/0.7mi runup)",
+      "tunes": [
+        {
+          "event": "(Tip: Approach from west, 1.1km/0.7mi runup)",
+          "class": "A 800 (Super Saloons)",
+          "car": "Nissan Sentra Nismo (FWD, M/C)",
+          "creator": "Saeenu",
+          "raceType": "Road",
+          "tuneName": "FWD R35 GTR M/C",
+          "shareCode": "183 446 157",
+          "notes": "FWD, 3.8L Nissan VR38 V6TT, No Aero, Stock Rims, Rally Tires. Manual & Clutch Recommended. Very Strong FWD (Semi-Powerbuild), 00:56.967 Estadio Circuit."
+        }
+      ]
+    },
+    {
+      "event": "(Video guide if you need help: https://youtu.be/nglOCqlfcKw?t=92 )",
+      "tunes": [
+        {
+          "event": "(Video guide if you need help: https://youtu.be/nglOCqlfcKw?t=92 )",
+          "class": "A 800 (Super Saloons)",
+          "car": "MG MG7 (FWD, M/C)",
+          "creator": "Saeenu",
+          "raceType": "Road",
+          "tuneName": "Purist Road M/C",
+          "shareCode": "685 243 016",
+          "notes": "FWD, Stock Engine w/ Anti-Lag Turbo, No Aero, Vorsteiner VCS 001 Rims, Rally Tires, Purist. Manual & Clutch Recommended. Strong FWD, 00:57.668 Estadio Circuit."
+        }
+      ]
+    },
+    {
+      "event": "Drift Zone (Road) - Polytunnels (100,000 pts)",
+      "tunes": [
+        {
+          "event": "Drift Zone (Road) - Polytunnels (100,000 pts)",
+          "class": "A 800 (Super Saloons)",
+          "car": "Mercedes-AMG C 63 S Coupé '16",
+          "creator": "OxGRIDRUNR",
+          "raceType": "Drift (Road)",
+          "tuneName": "AWD Drift V2",
+          "shareCode": "344 836 983",
+          "notes": "AWD, 5.2L Lamborghini V10, No Aero, Drag Tires, Dry Only. 202.1k pts Polytunnel Drift Zone."
+        }
+      ]
+    },
+    {
+      "event": "(Tip: Approach from south)",
+      "tunes": [
+        {
+          "event": "(Tip: Approach from south)",
+          "class": "A 800 (Super Saloons)",
+          "car": "Lynk & Co 03+",
           "creator": "OxGRIDRUNR",
           "raceType": "Drift (Road)",
           "tuneName": "AWD Drift",
-          "shareCode": "100 033 830",
-          "notes": "AWD, 3.0L Toyota Racing 2JZ i6T w/ Anti-Lag Turbo, No Aero, Stock Rims, Drag Tires, Dry Only"
+          "shareCode": "781 316 612",
+          "notes": "AWD, 7.2L RJ Anderson Racing V8, No Aero, Drag Tires, Dry Only. 202.4k pts Polytunnel Drift Zone."
         }
       ]
     },
@@ -231,13 +171,73 @@
       "tunes": [
         {
           "event": "(Tip: Disable Traction/Stability Control Assists for drifting)",
-          "class": "Super Saloons",
-          "car": "Alfa Romeo Giulia Quadrifoglio (S1 833, RWD)",
+          "class": "A 800 (Super Saloons)",
+          "car": "Mercedes-AMG C 63 S Coupé '16 (RWD)",
           "creator": "OxGRIDRUNR",
           "raceType": "Drift (Road)",
-          "tuneName": "RWD Drift",
-          "shareCode": "469 959 370",
-          "notes": "RWD, 4.5L Ferrari V8, No Aero, Stock Rims, Snow Tires"
+          "tuneName": "RWD Purist Drift",
+          "shareCode": "107 732 537",
+          "notes": "RWD, Stock Engine, No Aero, Stock Rims, Snow Tires, Purist"
+        }
+      ]
+    },
+    {
+      "event": "Dirt - Little Rally",
+      "tunes": [
+        {
+          "event": "Dirt - Little Rally",
+          "class": "B 700 (Hot & Super Hot Hatch AWD)",
+          "car": "Volkswagen Golf R '14 (M/C)",
+          "creator": "LogikJ",
+          "raceType": "Dirt",
+          "tuneName": "B Dirt/CC Update",
+          "shareCode": "117 725 702",
+          "notes": "AWD, Stock Engine, Rocket Bunny Sport Wing, Stock Rims, Offroad Race Tires, Purist. Manual & Clutch Recommended."
+        }
+      ]
+    },
+    {
+      "event": "Road - Generation Alpha",
+      "tunes": [
+        {
+          "event": "Road - Generation Alpha",
+          "class": "A 800 (2010s High Performance Dailies)",
+          "car": "Ford Focus RS '17 (M/C)",
+          "creator": "LogikJ",
+          "raceType": "Road",
+          "tuneName": "Road Widebody V8",
+          "shareCode": "135 294 399",
+          "notes": "AWD, 6.2L Chevrolet LS3 V8, Widebody Kit, Full Aero (Nearly Invisible Wing), Rally Tires. Manual & Clutch Recommended. AWD Grip Meta."
+        }
+      ]
+    },
+    {
+      "event": "Weekly Forzathon - Designed for Driving",
+      "tunes": [
+        {
+          "event": "Weekly Forzathon - Designed for Driving",
+          "class": "BMW X5 M",
+          "car": "BMW X5 M (S1 900)",
+          "creator": "LogikJ",
+          "raceType": "Road",
+          "tuneName": "S1 Road",
+          "shareCode": "160 832 016",
+          "notes": "AWD, 5.2L Lamborghini V10 w/ Anti-Lag Turbos, Widebody Kit, Full Aero, Race Slick Tires, Dry Only"
+        }
+      ]
+    },
+    {
+      "event": "Drive from Guanajuato to Playa Drive from Guanajuato to Playa Azul",
+      "tunes": [
+        {
+          "event": "Drive from Guanajuato to Playa Drive from Guanajuato to Playa Azul",
+          "class": "Land Rover",
+          "car": "Land Rover Defender 90 (B 700, M/C)",
+          "creator": "LogikJ",
+          "raceType": "Road",
+          "tuneName": "Road Purist Grip",
+          "shareCode": "162 076 044",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rear Tire Profile Size Upgrade, Rally Tires, Purist. Manual & Clutch Recommended. Good AWD Grip."
         }
       ]
     }
