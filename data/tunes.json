@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-02-17T06:43:06.268Z",
+  "lastUpdated": "2026-02-24T06:44:46.602Z",
   "races": [
     {
-      "event": "The Trial (Dirt) - Saddle Up",
+      "event": "The Trial (Road) - Korea Opportunities",
       "tunes": [
         {
-          "event": "The Trial (Dirt) - Saddle Up",
-          "class": "B 700 (Ford Mustang)",
-          "car": "Ford Mustang Mach 1 '71",
-          "creator": "LogikJ",
-          "raceType": "Dirt",
-          "tuneName": "B Dirt AWD",
-          "shareCode": "167 980 485",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires"
+          "event": "The Trial (Road) - Korea Opportunities",
+          "class": "B 700 (Korea)",
+          "car": "Hyundai Veloster N",
+          "creator": "Saeenu",
+          "raceType": "Road",
+          "tuneName": "Road No Aero V2",
+          "shareCode": "183 395 025",
+          "notes": "AWD, Stock Engine, No Aero. Good AWD, mid ~00:55.xxx Lookout Circuit."
         }
       ]
     },
     {
-      "event": "EventLab (Road) - Arcadia Rescension",
+      "event": "EventLab (Road) - The Coast View Circuit",
       "tunes": [
         {
-          "event": "EventLab (Road) - Arcadia Rescension",
+          "event": "EventLab (Road) - The Coast View Circuit",
           "class": "S1 900 (Modern Supercars)",
           "car": "Chevrolet Corvette Stingray Coupé '20",
           "creator": "TheDannny",
@@ -32,167 +32,122 @@
       ]
     },
     {
-      "event": "EventLab (Dirt) - Hilltop Scramble",
+      "event": "EventLab (Dirt) - District 17: Sewer Racers",
       "tunes": [
         {
-          "event": "EventLab (Dirt) - Hilltop Scramble",
-          "class": "B 700 (Classic & Retro Rally)",
-          "car": "Mini Cooper S '65",
-          "creator": "TheDannny",
+          "event": "EventLab (Dirt) - District 17: Sewer Racers",
+          "class": "A 800 (Rally Monsters)",
+          "car": "Opel Manta 400",
+          "creator": "LogikJ",
           "raceType": "Dirt",
-          "tuneName": "K20 Dirt",
-          "shareCode": "180 904 952",
-          "notes": "AWD, 2.0L Honda VTEC i4, Widebody Kit, No Aero + Roof Spare Tire, Stock Rims, Offroad Race Tires. Strong Dirt."
+          "tuneName": "A Dirt No Aero",
+          "shareCode": "104 689 113",
+          "notes": "AWD, 3.2L BMW i6, No Aero, Stock Rims, Offroad Race Tires. Strong Dirt, 01:05.743 Teotihuacan Scramble."
         }
       ]
     },
     {
-      "event": "EventLab (Road) - Otoribashi (1v1)",
+      "event": "Speed Trap (Road) - Drag Strip (230mph/371kmh)",
       "tunes": [
         {
-          "event": "EventLab (Road) - Otoribashi (1v1)",
-          "class": "B 700 (Country: Japan)",
-          "car": "Honda Civic Type R '97",
-          "creator": "Saeenu",
+          "event": "Speed Trap (Road) - Drag Strip (230mph/371kmh)",
+          "class": "S2 998 (Rimac)",
+          "car": "Rimac Concept Two",
+          "creator": "Sa1monBark",
           "raceType": "Road",
-          "tuneName": "1:02.9 Estadio B",
-          "shareCode": "176 167 653",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims. Very Strong/Near Meta AWD, 01:02.990 Estadio Circuit."
+          "tuneName": "S2 Road",
+          "shareCode": "169 526 044",
+          "notes": "AWD, Full Aero, Race Slicks, Dry Only. 279.05mph Drag Strip Speed Trap & 282.05mph Federal Highway Speed Trap."
         }
       ]
     },
     {
-      "event": "Playground Games (Estadio Horizon) - Running Laps",
+      "event": "(Tip: Approach from north-west, 3km/1.9mi runup)",
       "tunes": [
         {
-          "event": "Playground Games (Estadio Horizon) - Running Laps",
-          "class": "A 800 (David VS Goliath)",
-          "car": "International Scout 800A (M/C)",
+          "event": "(Tip: Approach from north-west, 3km/1.9mi runup)",
+          "class": "S2 998 (Rimac)",
+          "car": "Rimac Nevera",
+          "creator": "Sa1monBark",
+          "raceType": "Road",
+          "tuneName": "Purist",
+          "shareCode": "167 715 905",
+          "notes": "AWD, Stock Aero, Stock Rims, Race Slicks, Dry Only, Purist. 284.44mph Federal Highway Speed Trap."
+        }
+      ]
+    },
+    {
+      "event": "Speed Trap (Road/Dirt) - Estadio (200mph/322kmh)",
+      "tunes": [
+        {
+          "event": "Speed Trap (Road/Dirt) - Estadio (200mph/322kmh)",
+          "class": "S2 998 (Rimac)",
+          "car": "Rimac Concept Two",
+          "creator": "KapienPL",
+          "raceType": "Dirt",
+          "tuneName": "Dirt/CC EV",
+          "shareCode": "176 887 891",
+          "notes": "AWD, Full Aero, Offroad Race Tires. 246.65mph Estadio Speed Trap."
+        }
+      ]
+    },
+    {
+      "event": "(Video guide if you need help: https://youtu.be/62l1Cs6m714?t=68 )",
+      "tunes": [
+        {
+          "event": "(Video guide if you need help: https://youtu.be/62l1Cs6m714?t=68 )",
+          "class": "S2 998 (Rimac)",
+          "car": "Rimac Concept Two",
           "creator": "Rocklxd",
           "raceType": "Dirt",
-          "tuneName": "A Dirt Meta 2023",
-          "shareCode": "100 729 458",
-          "notes": "AWD, 8.4L Dodge V10, Roof Removed, Rear Tire Profile Size Upgrade, Offroad Race Tires. Manual & Clutch Recommended. Dirt Meta."
+          "tuneName": "Fun Offroad",
+          "shareCode": "920 072 105",
+          "notes": "AWD, No Aero, Offroad Race Tires, Purist. Less handling but more accel than above tune ↑"
         }
       ]
     },
     {
-      "event": "Danger Sign (Dirt) - Cascadas (177m/581ft)",
+      "event": "Dirt - Holden A Minute",
       "tunes": [
         {
-          "event": "Danger Sign (Dirt) - Cascadas (177m/581ft)",
-          "class": "B 700 (Hyundai)",
-          "car": "Hyundai Veloster N",
-          "creator": "Saeenu",
-          "raceType": "Dirt",
-          "tuneName": "Seasonal Dirt V2",
-          "shareCode": "116 392 405",
-          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires. 01:15.923 Mangrove Scramble."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from north-east, 2.5km/1.6mi runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from north-east, 2.5km/1.6mi runup)",
-          "class": "B 700 (Hyundai)",
-          "car": "Hyundai Veloster N (FWD, M/C)",
-          "creator": "Saeenu",
-          "raceType": "Dirt",
-          "tuneName": "B Purist Dirt MC",
-          "shareCode": "445 790 597",
-          "notes": "FWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires, Purist. Manual & Clutch Recommended. Good FWD Dirt, 01:14.366 Mangrove Scramble. 212.14m Cascadas Danger Sign, 303.94m Ridge Crest Danger Sign & 205.48m Cannonball Danger Sign."
-        }
-      ]
-    },
-    {
-      "event": "(Video guide if you need help: https://youtu.be/wLJD36O_QWs )",
-      "tunes": [
-        {
-          "event": "(Video guide if you need help: https://youtu.be/wLJD36O_QWs )",
-          "class": "B 700 (Hyundai)",
-          "car": "Hyundai i30 N (FWD, M/C)",
+          "event": "Dirt - Holden A Minute",
+          "class": "A 800 (Holden & HSV)",
+          "car": "Holden Torana A9X",
           "creator": "LogikJ",
           "raceType": "Dirt",
-          "tuneName": "B Dirt FWD",
-          "shareCode": "169 178 751",
-          "notes": "FWD, Stock Engine, No Aero, Stock Rims, Offroad Race Tires, Purist. Manual & Clutch Recommended. Good FWD Dirt."
+          "tuneName": "Dirt V8 Aero Upd",
+          "shareCode": "632 856 601",
+          "notes": "AWD, 6.2L Chevrolet LS3 V8, Full Aero, Stock Rims, Offroad Race Tires. Strong Dirt."
         }
       ]
     },
     {
-      "event": "(Tip: Approach from north-east, 2.8km/1.7mi runup)",
+      "event": "Road - Sit Up And Take Lotus",
       "tunes": [
         {
-          "event": "(Tip: Approach from north-east, 2.8km/1.7mi runup)",
-          "class": "B 700 (Hyundai)",
-          "car": "Hyundai Veloster N (FWD, M/C)",
+          "event": "Road - Sit Up And Take Lotus",
+          "class": "A 800 (Lotus)",
+          "car": "Lotus Exige S",
           "creator": "LogikJ",
           "raceType": "Road",
-          "tuneName": "Road Purist Upd",
-          "shareCode": "105 189 218",
-          "notes": "FWD, Stock Engine, No Aero, Rally Tires, Purist. Manual & Clutch Recommended. Strong FWD, 01:03.894 Estadio Circuit."
+          "tuneName": "Road AWD No Aero",
+          "shareCode": "119 673 597",
+          "notes": "AWD, Stock Engine, No Aero, Stock Rims, Rally Tires. Strong AWD, 00:57.987 Estadio Circuit."
         }
       ]
     },
     {
-      "event": "(Video guide if you need help: https://youtu.be/wLJD36O_QWs?t=180 )",
+      "event": "Weekly Forzathon - Drift Machine",
       "tunes": [
         {
-          "event": "(Video guide if you need help: https://youtu.be/wLJD36O_QWs?t=180 )",
-          "class": "B 700 (Hyundai)",
-          "car": "Hyundai i30 N (FWD, M/C)",
+          "event": "Weekly Forzathon - Drift Machine",
+          "class": "Nissan Silvia Spec-R '00",
+          "car": "Nissan Silvia Spec-R '00 (A 800)",
           "creator": "Saeenu",
           "raceType": "Road",
-          "tuneName": "Purist Maxton V2",
-          "shareCode": "109 503 432",
-          "notes": "FWD, Stock Engine, Maxton Design Bodykit, Vorsteiner VFN 512 Rims, Rally Tires, Purist. Manual & Clutch Recommended. Strong FWD Grip, 01:03.988 Estadio Circuit."
-        }
-      ]
-    },
-    {
-      "event": "Street - Fine China",
-      "tunes": [
-        {
-          "event": "Street - Fine China",
-          "class": "A 800 (China)",
-          "car": "Lynk & Co 03+",
-          "creator": "LogikJ",
-          "raceType": "Road",
-          "tuneName": "Road Purist Upd",
-          "shareCode": "161 669 690",
-          "notes": "AWD, Stock Engine w/ Anti-Lag Turbo, No Aero, Stock Rims, Rally Tires, Purist. Good AWD, 00:58.268 Estadio Circuit."
-        }
-      ]
-    },
-    {
-      "event": "Road - Year Of The Volksdragon",
-      "tunes": [
-        {
-          "event": "Road - Year Of The Volksdragon",
-          "class": "C 600 (Volkswagen)",
-          "car": "Volkswagen Golf R32 (M/C)",
-          "creator": "LogikJ",
-          "raceType": "Road",
-          "tuneName": "Seasonal Trial",
-          "shareCode": "157 942 087",
-          "notes": "AWD, Stock Engine, Wings West Sport Rear Wing, Drag Tires, Dry Only, Purist. Manual & Clutch Recommended."
-        }
-      ]
-    },
-    {
-      "event": "Weekly Forzathon - Does The Truck",
-      "tunes": [
-        {
-          "event": "Weekly Forzathon - Does The Truck",
-          "class": "Hoonigan Ford F-150 'Hoonitruck'",
-          "car": "Hoonigan Ford F-150 'Hoonitruck' (S1 900)",
-          "creator": "LogikJ",
-          "raceType": "Road",
-          "tuneName": "S1 Road",
-          "shareCode": "102 867 173",
-          "notes": "AWD, Stock Engine, Stock Aero, Purist"
+          "tuneName": "Road No Aero V2",
+          "shareCode": "171 972 713",
+          "notes": "AWD, Stock Engine w/ Anti-Lag Turbo, No Aero, Stock Rims, Rally Tires"
         }
       ]
     },
@@ -201,73 +156,73 @@
       "tunes": [
         {
           "event": "(Tip: Disable Traction/Stability Control Assists for drifting)",
-          "class": "Hoonigan Ford F-150 'Hoonitruck'",
-          "car": "Hoonigan Ford F-150 'Hoonitruck' (S1 900)",
+          "class": "Nissan Silvia Spec-R '00",
+          "car": "Nissan Silvia Spec-R '00 (A 800, RWD, M/C)",
+          "creator": "LetzeLU",
+          "raceType": "Road",
+          "tuneName": "54 Esta 00 Playa",
+          "shareCode": "273 522 435",
+          "notes": "RWD, 3.0L Toyota Racing 2JZ i6T w/ Anti-Lag Turbo, Rocket Bunny Widebody Kit, Full Aero. Manual & Clutch Recommended. RWD Powerbuild Meta, 00:54.610 Estadio Circuit (Top #7) & 01:01.010 Playa Azul Circuit (Top #11)."
+        }
+      ]
+    },
+    {
+      "event": "Take a Photo of the Waterfall at Cascadas De Agua Azul",
+      "tunes": [
+        {
+          "event": "Take a Photo of the Waterfall at Cascadas De Agua Azul",
+          "class": "Ford Falcon",
+          "car": "Ford Falcon GT F 351 (A 800)",
+          "creator": "BakeMyCupcake",
+          "raceType": "Dirt",
+          "tuneName": "A - Dirt V2 Aero",
+          "shareCode": "649 911 897",
+          "notes": "AWD, Stock Engine, Full Aero, Offroad Race Tires"
+        }
+      ]
+    },
+    {
+      "event": "Earn a Barrel Roll Skill",
+      "tunes": [
+        {
+          "event": "Earn a Barrel Roll Skill",
+          "class": "Buggy or Unlimited Buggy",
+          "car": "Exomotive Exocet Off-Road (A 800)",
           "creator": "LogikJ",
           "raceType": "Dirt",
-          "tuneName": "S1 Dirt/CC Upd",
-          "shareCode": "369 836 005",
-          "notes": "AWD, Stock Engine, Stock Aero, Stock Rims, Offroad Race Tires, Purist"
+          "tuneName": "Dirt/CC + Aero",
+          "shareCode": "102 153 256",
+          "notes": "AWD, 3.2L BMW i6, APR Race Rear Wing, Offroad Race Tires"
         }
       ]
     },
     {
-      "event": "(Tip: Do not drift at too extreme angles or you'll spin out in this car!)",
+      "event": "(Tip: Drive off at the left/right edge of the Runway Danger Sign ramp on 2 wheels only for easy barrel roll)",
       "tunes": [
         {
-          "event": "(Tip: Do not drift at too extreme angles or you'll spin out in this car!)",
-          "class": "Hoonigan Ford F-150 'Hoonitruck'",
-          "car": "Hoonigan Gymkhana 10 Ford F-150 'Hoonitruck' (S2 917)",
-          "creator": "OxGRIDRUNR",
-          "raceType": "Drift (Road)",
-          "tuneName": "AWD Drift",
-          "shareCode": "320 260 408",
-          "notes": "AWD, Stock Engine w/ Anti-Lag Turbos, Stock Aero, Stock Rims, Drag Tires, Dry Only, Purist"
+          "event": "(Tip: Drive off at the left/right edge of the Runway Danger Sign ramp on 2 wheels only for easy barrel roll)",
+          "class": "Buggy or Unlimited Buggy",
+          "car": "Ariel Nomad (A 800)",
+          "creator": "KapienPL",
+          "raceType": "Dirt",
+          "tuneName": "Dirt/CC 2024",
+          "shareCode": "372 364 506",
+          "notes": "AWD, Stock Engine, No Aero, Offroad Race Tires"
         }
       ]
     },
     {
-      "event": "Earn 3 Stars at the Pyramid Of The Moon Speed Zone",
+      "event": "Reach 150mph",
       "tunes": [
         {
-          "event": "Earn 3 Stars at the Pyramid Of The Moon Speed Zone",
-          "class": "Anything Goes",
-          "car": "Lamborghini Sesto Elemento Forza Edition (X 999)",
-          "creator": "trviis",
-          "raceType": "Road",
-          "tuneName": "1185",
-          "shareCode": "676 233 508",
-          "notes": "AWD, 4.7L Ferrari Racing V12 w/ Anti-Lag Turbos, Full Aero, Race Slicks, Dry Only. X Road Meta."
-        }
-      ]
-    },
-    {
-      "event": "(Tip: Approach from south-west, 1.8km/1.1mi runup)",
-      "tunes": [
-        {
-          "event": "(Tip: Approach from south-west, 1.8km/1.1mi runup)",
-          "class": "Anything Goes",
-          "car": "Mercedes-Benz AMG CLK GTR (S2 998)",
-          "creator": "uwu rv12",
-          "raceType": "Road",
-          "tuneName": "S2 Road",
-          "shareCode": "147 026 242",
-          "notes": "AWD, 4.7L Ferrari Racing V12, Full Aero, Stock Rims, Race Slicks, Dry Only. Strong AWD."
-        }
-      ]
-    },
-    {
-      "event": "Win a Midnight Battle",
-      "tunes": [
-        {
-          "event": "Win a Midnight Battle",
-          "class": "Aston Martin Vantage",
-          "car": "Aston Martin V12 Vantage S (S1 900)",
+          "event": "Reach 150mph",
+          "class": "Country: China",
+          "car": "Lynk & Co 03+ (A 800)",
           "creator": "LogikJ",
           "raceType": "Road",
-          "tuneName": "S1 Road AWD",
-          "shareCode": "812 304 430",
-          "notes": "AWD, 4.7L Ferrari Racing V12, Stock Rims, Full Aero. Good AWD."
+          "tuneName": "Road Purist Upd",
+          "shareCode": "161 669 690",
+          "notes": "AWD, Stock Engine w/ Anti-Lag Turbo, No Aero, Stock Rims, Rally Tires, Purist. Good AWD, 00:58.268 Estadio Circuit."
         }
       ]
     }
